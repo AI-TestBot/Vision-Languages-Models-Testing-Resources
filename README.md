@@ -7,6 +7,10 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
 * 📖[Review](#Review)
 * 📖[General](#General)
 * 📖[General-Comprehensive](#General-Comprehensive)
+* 📖[General-Understanding](#General-Understanding)
+* 📖[General-Generation](#General-Generation)
+* 📖[Text-to-Image](#Text-to-Image)
+* 📖[Text-to-Video](#Text-to-Video)
 
 ## 📖Review  
 
@@ -32,7 +36,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.00647)]
 [[Github](https://github.com/mshukor/EvALign-ICL)]
 
-### Understanding
+### General-Understanding
 
 **MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.**<br>
 *X Yang, W Wu, S Feng, M Wang, D Wang, Y Li, Q Sun, Y Zhang, X Fu, S Poria.*<br>
@@ -46,7 +50,7 @@ CVPR, 2024.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf)]
 [[Github](https://github.com/OpenGVLab/Ask-Anything)]
 
-### Generation
+### General-Generation
 
 #### Text-to-Image
 
