@@ -32,6 +32,8 @@ ArXiv, 2023.
 
 ### Generation
 
+#### Text-to-Image
+
 **Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics.**<br>
 *S Hartwig, D Engel, L Sick, H Kniesel, T Payer, T Ropinski.*<br>
 ArXiv, 2024.
@@ -42,6 +44,8 @@ ArXiv, 2024.
 Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://so2.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LLMScore%3A+Unveiling+the+Power+of+Large+Language+Models+in+Text-to-Image+Synthesis+Evaluation&btnG=)]
 [[Github](https://github.com/YujieLu10/LLMScore)]
+
+#### Text-to-Video
 
 **Fetv: A benchmark for fine-grained evaluation of open-domain text-to-video generation.**<br>
 *Y Liu, L Li, S Ren, R Gao, S Li, S Chen, X Sun, L Hou.*<br>
@@ -93,7 +97,7 @@ arXiv:2305.07895, 2023.
 
 ### Reliable
 
-**[Hallucination]
+#### Hallucination
 
 **An llm-free multi-dimensional benchmark for mllms hallucination evaluation.**<br>
 *J Wang, Y Wang, G Xu, J Zhang, Y Gu, H Jia, M Yan, J Zhang, J Sang.*<br>
