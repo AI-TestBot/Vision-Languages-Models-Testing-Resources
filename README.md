@@ -5,8 +5,10 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
 
 ## 📖Contents 
 * 📖[Review](#Review)
+* 📖[General](#General)
+* 📖[General-Comprehensive](#General-Comprehensive)
 
-## Review
+## 📖Review  
 
 **From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities.**<br>
 *C Lu, C Qian, G Zheng, H Fan, H Gao, J Zhang, J Shao, J Deng, J Fu, K Huang, K Li, L Li, et al.*<br>
@@ -14,9 +16,9 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.15071.pdf)]
 [[Github](https://openlamm.github.io/Leaderboards)]
 
-## General
+## 📖General 
 
-### Comprehensive
+### General-Comprehensive
 
 **Mmbench: Is your multi-modal model an all-around player?**<br>
 *Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.*<br>
