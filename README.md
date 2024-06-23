@@ -11,6 +11,14 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
 * 📖[General-Generation](#General-Generation)
 * 📖[Text-to-Image](#Text-to-Image)
 * 📖[Text-to-Video](#Text-to-Video)
+* 📖[General-VQA](#General-VQA)
+* 📖[General-OCR](#General-OCR)
+* 📖[General-Reliable](#General-Reliable)
+* 📖[Hallucination](#Hallucination)
+* 📖[Security](#Security)
+* 📖[Testing Methods](#Testing Methods)
+* 📖[Testing Tools](#Testing Tools)
+* 📖[Challenges](#Challenges)
 
 ## 📖Review  
 
@@ -84,7 +92,7 @@ arxiv:2403.11956, 2024.
 [[ArXiv](https://arxiv.longhoe.net/pdf/2403.11956)]
 [[Github](https://github.com/QMME/T2VQA)]
 
-### VQA
+### General-VQA
 
 **CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning.**<br>
 *Z He, X Wu, P Zhou, R Xuan, G Liu, X Yang, Q Zhu, H Huang.*<br>
@@ -92,14 +100,14 @@ arXiv:2401.14011, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.14011)]
 [[Github](https://github.com/FlagOpen/CMMU)]
 
-### Reasoning
+### General-Reasoning
 
 **InfiMM-Eval: Complex Open-Ended Reasoning Evaluation For Multi-Modal Large Language Models.**<br>
 *X Han, Q You, Y Liu, W Chen, H Zheng, K Mrini, et al.*<br>
 arXiv:2311.11567, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.11567)]
 
-### OCR
+### General-OCR
 
 **On the hidden mystery of ocr in large multimodal models.**<br>
 *Y Liu, Z Li, H Li, W Yu, M Huang, D Peng, M Liu, M Chen, C Li, L Jin, X Bai.*<br>
@@ -107,7 +115,7 @@ arXiv:2305.07895, 2023.
 [[ArXiv](https://arxiv.org/html/2305.07895v5)]
 [[Github](https://github.com/Yuliang-Liu/MultimodalOCR)]
 
-### Reliable
+### General-Reliable
 
 #### Hallucination
 
