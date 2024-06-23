@@ -9,15 +9,15 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
 * 📖[General-Comprehensive](#General-Comprehensive)
 * 📖[General-Understanding](#General-Understanding)
 * 📖[General-Generation](#General-Generation)
-* 📖[Text-to-Image](#Text-to-Image)
-* 📖[Text-to-Video](#Text-to-Video)
+* 📖[General-Generation-Text-to-Image](#Text-to-Image)
+* 📖[General-Generation-Text-to-Video](#Text-to-Video)
 * 📖[General-VQA](#General-VQA)
 * 📖[General-OCR](#General-OCR)
 * 📖[General-Reliable](#General-Reliable)
-* 📖[Hallucination](#Hallucination)
+* 📖[General-Reliable-Hallucination](#Hallucination)
 * 📖[Security](#Security)
-* 📖[Testing Methods](#Testing Methods)
-* 📖[Testing Tools](#Testing Tools)
+* 📖[Testing Methods](#Testing-Methods)
+* 📖[Testing Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
 
 ## 📖Review  
@@ -60,7 +60,7 @@ CVPR, 2024.
 
 ### General-Generation
 
-#### Text-to-Image
+#### General-Generation-Text-to-Image
 
 **Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics.**<br>
 *S Hartwig, D Engel, L Sick, H Kniesel, T Payer, T Ropinski.*<br>
@@ -78,7 +78,7 @@ Advances in Neural Information Processing Systems, 2024.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.09619)]
 
-#### Text-to-Video
+#### General-Generation-Text-to-Video
 
 **Fetv: A benchmark for fine-grained evaluation of open-domain text-to-video generation.**<br>
 *Y Liu, L Li, S Ren, R Gao, S Li, S Chen, X Sun, L Hou.*<br>
@@ -117,7 +117,7 @@ arXiv:2305.07895, 2023.
 
 ### General-Reliable
 
-#### Hallucination
+#### General-Reliable-Hallucination
 
 **An llm-free multi-dimensional benchmark for mllms hallucination evaluation.**<br>
 *J Wang, Y Wang, G Xu, J Zhang, Y Gu, H Jia, M Yan, J Zhang, J Sang.*<br>
