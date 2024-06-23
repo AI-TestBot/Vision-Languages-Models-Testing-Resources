@@ -38,6 +38,12 @@ arXiv:2310.09036, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.09036)]
 [[Github](https://github.com/declare-lab/MM-InstructEval)]
 
+**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.**<br>
+*K Li, Y Wang, Y He, Y Li, Y Wang, Y Liu, Z Wang, J Xu, G Chen, P Luo, L Wang, Y Qiao.*<br>
+CVPR, 2024.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf)]
+[[Github](https://github.com/OpenGVLab/Ask-Anything)]
+
 ### Generation
 
 #### Text-to-Image
@@ -52,6 +58,11 @@ ArXiv, 2024.
 Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://so2.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LLMScore%3A+Unveiling+the+Power+of+Large+Language+Models+in+Text-to-Image+Synthesis+Evaluation&btnG=)]
 [[Github](https://github.com/YujieLu10/LLMScore)]
+
+**UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark.**<br>
+*Z Zhou, Q Wang, B Lin, Y Su, R Chen, X Tao, A Zheng, L Yuan, P Wan, D Zhang.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.09619)]
 
 #### Text-to-Video
 
@@ -81,13 +92,6 @@ arXiv:2401.14011, 2024.
 *X Han, Q You, Y Liu, W Chen, H Zheng, K Mrini, et al.*<br>
 arXiv:2311.11567, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.11567)]
-
-### Aesthetic
-
-**UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark.**<br>
-*Z Zhou, Q Wang, B Lin, Y Su, R Chen, X Tao, A Zheng, L Yuan, P Wan, D Zhang.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2404.09619)]
 
 ### OCR
 
