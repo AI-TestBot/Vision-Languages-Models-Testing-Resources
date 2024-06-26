@@ -47,6 +47,12 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.00647)]
 [[Github](https://github.com/mshukor/EvALign-ICL)]
 
+**Vbench: Comprehensive benchmark suite for video generative models.**<br>
+*Z Huang, Y He, J Yu, F Zhang, C Si, Y Jiang, Y Zhang, T Wu, Q Jin, N Chanpaisit, Y Wang, et al.*<br>
+CVPR, 2024.
+[[ArXiv](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf)]
+[[Github](https://vchitect.github.io/VBench-project/)]
+
 ### Understanding
 
 **MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.**<br>
@@ -88,6 +94,11 @@ Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://so2.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LLMScore%3A+Unveiling+the+Power+of+Large+Language+Models+in+Text-to-Image+Synthesis+Evaluation&btnG=)]
 [[Github](https://github.com/YujieLu10/LLMScore)]
 
+**Imagereward: Learning and evaluating human preferences for text-to-image generation.**<br>
+*J Xu, X Liu, Y Wu, Y Tong, Q Li, M Ding, J Tang, Y Dong.*<br>
+Advances in Neural Information Processing Systems, 2024.
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/33646ef0ed554145eab65f6250fab0c9-Paper-Conference.pdf)]
+
 **UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark.**<br>
 *Z Zhou, Q Wang, B Lin, Y Su, R Chen, X Tao, A Zheng, L Yuan, P Wan, D Zhang.*<br>
 ArXiv, 2024.
@@ -106,6 +117,12 @@ Advances in Neural Information Processing Systems, 2024.
 arxiv:2403.11956, 2024.
 [[ArXiv](https://arxiv.longhoe.net/pdf/2403.11956)]
 [[Github](https://github.com/QMME/T2VQA)]
+
+**T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation.**<br>
+*P Ji, C Xiao, H Tai, M Huo, et al.*<br>
+CVPR, 2024.
+[[ArXiv](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_T2VBench_Benchmarking_Temporal_Dynamics_for_Text-to-Video_Generation_CVPRW_2024_paper.pdf)]
+[[Github](https://ji-pengliang.github.io/T2VBench/)]
 
 ### VQA
 
