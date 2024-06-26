@@ -55,11 +55,23 @@ arXiv:2310.09036, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.09036)]
 [[Github](https://github.com/declare-lab/MM-InstructEval)]
 
+**Journeydb: A benchmark for generative image understanding.**<br>
+*K Sun, J Pan, Y Ge, H Li, H Duan, X Wu, R Zhang, A Zhou, Z Qin, Y Wang, J Dai, Y Qiao, et al.*<br>
+Advances in Neural Information Processing Systems, 2024.
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf)]
+[[Github](https://journeydb.github.io/)]
+
 **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.**<br>
 *K Li, Y Wang, Y He, Y Li, Y Wang, Y Liu, Z Wang, J Xu, G Chen, P Luo, L Wang, Y Qiao.*<br>
 CVPR, 2024.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf)]
 [[Github](https://github.com/OpenGVLab/Ask-Anything)]
+
+**MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding.**<br>
+*J Zhou, Y Shu, B Zhao, B Wu, S Xiao, X Yang, Y Xiong, B Zhang, T Huang, Z Liu.*<br>
+arXiv:2406.04264, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.04264)]
+[[Github](https://github.com/JUNJIE99/MLVU)]
 
 ### Generation
 
