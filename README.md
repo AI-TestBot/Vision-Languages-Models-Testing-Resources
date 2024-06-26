@@ -12,6 +12,7 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
     * 📖[Text-to-Image](#Text-to-Image)
     * 📖[Text-to-Video](#Text-to-Video)
   * 📖[VQA](#VQA)
+  * 📖[Reasoning](#Reasoning)
   * 📖[High-Level-Vision](#High-Level-Vision)
     * 📖[OCR](#OCR)
   * 📖[Low-Level-Vision](#Low-Level-Vision)
