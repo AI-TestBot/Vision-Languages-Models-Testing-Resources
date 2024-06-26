@@ -12,7 +12,9 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
     * 📖[Text-to-Image](#Text-to-Image)
     * 📖[Text-to-Video](#Text-to-Video)
   * 📖[VQA](#VQA)
-  * 📖[OCR](#OCR)
+  * 📖[High-Level-Vision](#High-Level-Vision)
+    * 📖[OCR](#OCR)
+  * 📖[Low-Level-Vision](#Low-Level-Vision)
   * 📖[Reliable](#Reliable)
     * 📖[Hallucination](#Hallucination)
 * 📖[Security](#Security)
@@ -107,13 +109,23 @@ arXiv:2401.14011, 2024.
 arXiv:2311.11567, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.11567)]
 
-### OCR
+### High-Level-Vision
+
+#### OCR
 
 **On the hidden mystery of ocr in large multimodal models.**<br>
 *Y Liu, Z Li, H Li, W Yu, M Huang, D Peng, M Liu, M Chen, C Li, L Jin, X Bai.*<br>
 arXiv:2305.07895, 2023.
 [[ArXiv](https://arxiv.org/html/2305.07895v5)]
 [[Github](https://github.com/Yuliang-Liu/MultimodalOCR)]
+
+### Low-Level-Vision
+
+**A Benchmark for Multi-modal Foundation Models on Low-level Vision: from Single Images to Pairs.**<br>
+*Z Zhang, H Wu, E Zhang, G Zhai, W Lin.*<br>
+arXiv:2402.07116, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.07116)]
+[[Github](https://github.com/Q-Future/Q-Bench)]
 
 ### Reliable
 
