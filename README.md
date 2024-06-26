@@ -6,18 +6,18 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
 ## 📖Contents 
 * 📖[Review](#Review)
 * 📖[General](#General)
-* 📖[General-Comprehensive](#General-Comprehensive)
-* 📖[General-Understanding](#General-Understanding)
-* 📖[General-Generation](#General-Generation)
-* 📖[General-Generation-Text-to-Image](#Text-to-Image)
-* 📖[General-Generation-Text-to-Video](#Text-to-Video)
-* 📖[General-VQA](#General-VQA)
-* 📖[General-OCR](#General-OCR)
-* 📖[General-Reliable](#General-Reliable)
-* 📖[General-Reliable-Hallucination](#Hallucination)
+  * 📖[Comprehensive](#Comprehensive)
+  * 📖[Understanding](#Understanding)
+  * 📖[Generation](#Generation)
+    * 📖[Text-to-Image](#Text-to-Image)
+    * 📖[Text-to-Video](#Text-to-Video)
+  * 📖[VQA](#VQA)
+  * 📖[OCR](#OCR)
+  * 📖[Reliable](#Reliable)
+    * 📖[Hallucination](#Hallucination)
 * 📖[Security](#Security)
-* 📖[Testing Methods](#Testing-Methods)
-* 📖[Testing Tools](#Testing-Tools)
+* 📖[Testing-Methods](#Testing-Methods)
+* 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
 
 ## 📖Review  
@@ -30,7 +30,7 @@ ArXiv, 2024.
 
 ## 📖General 
 
-### General-Comprehensive
+### Comprehensive
 
 **Mmbench: Is your multi-modal model an all-around player?**<br>
 *Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.*<br>
@@ -44,7 +44,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.00647)]
 [[Github](https://github.com/mshukor/EvALign-ICL)]
 
-### General-Understanding
+### Understanding
 
 **MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.**<br>
 *X Yang, W Wu, S Feng, M Wang, D Wang, Y Li, Q Sun, Y Zhang, X Fu, S Poria.*<br>
@@ -58,9 +58,9 @@ CVPR, 2024.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf)]
 [[Github](https://github.com/OpenGVLab/Ask-Anything)]
 
-### General-Generation
+### Generation
 
-#### General-Generation-Text-to-Image
+#### Text-to-Image
 
 **Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics.**<br>
 *S Hartwig, D Engel, L Sick, H Kniesel, T Payer, T Ropinski.*<br>
@@ -78,7 +78,7 @@ Advances in Neural Information Processing Systems, 2024.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.09619)]
 
-#### General-Generation-Text-to-Video
+#### Text-to-Video
 
 **Fetv: A benchmark for fine-grained evaluation of open-domain text-to-video generation.**<br>
 *Y Liu, L Li, S Ren, R Gao, S Li, S Chen, X Sun, L Hou.*<br>
@@ -92,7 +92,7 @@ arxiv:2403.11956, 2024.
 [[ArXiv](https://arxiv.longhoe.net/pdf/2403.11956)]
 [[Github](https://github.com/QMME/T2VQA)]
 
-### General-VQA
+### VQA
 
 **CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning.**<br>
 *Z He, X Wu, P Zhou, R Xuan, G Liu, X Yang, Q Zhu, H Huang.*<br>
@@ -100,14 +100,14 @@ arXiv:2401.14011, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.14011)]
 [[Github](https://github.com/FlagOpen/CMMU)]
 
-### General-Reasoning
+### Reasoning
 
 **InfiMM-Eval: Complex Open-Ended Reasoning Evaluation For Multi-Modal Large Language Models.**<br>
 *X Han, Q You, Y Liu, W Chen, H Zheng, K Mrini, et al.*<br>
 arXiv:2311.11567, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.11567)]
 
-### General-OCR
+### OCR
 
 **On the hidden mystery of ocr in large multimodal models.**<br>
 *Y Liu, Z Li, H Li, W Yu, M Huang, D Peng, M Liu, M Chen, C Li, L Jin, X Bai.*<br>
@@ -115,9 +115,9 @@ arXiv:2305.07895, 2023.
 [[ArXiv](https://arxiv.org/html/2305.07895v5)]
 [[Github](https://github.com/Yuliang-Liu/MultimodalOCR)]
 
-### General-Reliable
+### Reliable
 
-#### General-Reliable-Hallucination
+#### Hallucination
 
 **An llm-free multi-dimensional benchmark for mllms hallucination evaluation.**<br>
 *J Wang, Y Wang, G Xu, J Zhang, Y Gu, H Jia, M Yan, J Zhang, J Sang.*<br>
@@ -133,7 +133,7 @@ arXiv:2311.16101, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.16101)]
 [[Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark)]
 
-## Testing Methods
+## Testing-Methods
 
 ### Evaluation
 
@@ -143,7 +143,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.13951v2)]
 [[HomePage](https://mllm-bench.llmzoo.com/)]
 
-## Testing Tools
+## Testing-Tools
 
 **lmms-eval**<br>
 *Openai*<br>
