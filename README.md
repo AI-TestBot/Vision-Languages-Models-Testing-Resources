@@ -8,7 +8,7 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
 * 📖[General](#General)
   * 📖[Comprehensive](#Comprehensive)
     * 📖[Image](#Image)
-    * 📖[to-Video](#Video)
+    * 📖[Video](#Video)
   * 📖[Understanding](#Understanding)
   * 📖[Generation](#Generation)
     * 📖[Text-to-Image](#Text-to-Image)
