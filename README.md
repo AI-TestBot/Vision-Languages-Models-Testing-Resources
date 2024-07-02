@@ -37,11 +37,51 @@ ArXiv, 2024.
 
 ### Comprehensive
 
+**Holistic evaluation of text-to-image models.**<br>
+*T Lee, M Yasunaga, C Meng, Y Mai, JS Park, A Gupta, Y Zhang, D Narayanan, H Teufel, et al.*<br>
+Advances in Neural Information Processing Systems, 2024.
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/dd83eada2c3c74db3c7fe1c087513756-Paper-Datasets_and_Benchmarks.pdf)]
+[[Github](https://github.com/stanford-crfm/helm)
+
+**Towards an Exhaustive Evaluation of Vision-Language Foundation Models.**<br>
+*E Salin, S Ayache, B Favre.*<br>
+ICCV, 2023.
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023W/MMFM/papers/Salin_Towards_an_Exhaustive_Evaluation_of_Vision-Language_Foundation_Models_ICCVW_2023_paper.pdf)]
+
 **Mmbench: Is your multi-modal model an all-around player?**<br>
 *Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
 [[Github](https://mmbench.opencompass.org.cn/home)]
+
+**Lvlm-ehub: A comprehensive evaluation benchmark for large vision-language models.**<br>
+*P Xu, W Shao, K Zhang, P Gao, S Liu, M Lei, F Meng, S Huang, Y Qiao, P Luo.*<br>
+arXiv:2306.09265, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.09265)]
+
+**Mm-vet: Evaluating large multimodal models for integrated capabilities.**<br>
+*W Yu, Z Yang, L Li, J Wang, K Lin, Z Liu, X Wang, L Wang.*<br>
+arXiv:2308.02490, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.02490)]
+[[Github](https://github.com/yuweihao/MM-Vet)]
+
+**Seed-bench: Benchmarking multimodal llms with generative comprehension.**<br>
+*B Li, R Wang, G Wang, Y Ge, Y Ge, Y Shan.*<br>
+arXiv:2307.16125, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.16125)]
+[[Github](https://github.com/AILab-CVC/SEED-Bench)]
+
+**Touchstone: Evaluating vision-language models by language models.**<br>
+*S Bai, S Yang, J Bai, P Wang, X Zhang, J Lin, X Wang, C Zhou, J Zhou.*<br>
+arXiv:2308.16890, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.16890)]
+[[Github](https://github.com/OFA-Sys/TouchStone)]
+
+**Visit-bench: A benchmark for vision-language instruction following inspired by real-world use.**<br>
+*Y Bitton, H Bansal, J Hessel, R Shao, W Zhu, A Awadalla, J Gardner, R Taori, L Schimdt.*<br>
+arXiv:2308.06595, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.06595)]
+[[Github](https://visit-bench.github.io/)]
 
 **Beyond task performance: Evaluating and reducing the flaws of large multimodal models with in-context learning.**<br>
 *M Shukor, A Rame, C Dancette, M Cord.*<br>
