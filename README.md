@@ -7,6 +7,8 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
 * 📖[Review](#Review)
 * 📖[General](#General)
   * 📖[Comprehensive](#Comprehensive)
+    * 📖[Image](#Image)
+    * 📖[to-Video](#Video)
   * 📖[Understanding](#Understanding)
   * 📖[Generation](#Generation)
     * 📖[Text-to-Image](#Text-to-Image)
@@ -61,11 +63,15 @@ arXiv:2310.09036, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.09036)]
 [[Github](https://github.com/declare-lab/MM-InstructEval)]
 
+#### Image
+
 **Journeydb: A benchmark for generative image understanding.**<br>
 *K Sun, J Pan, Y Ge, H Li, H Duan, X Wu, R Zhang, A Zhou, Z Qin, Y Wang, J Dai, Y Qiao, et al.*<br>
 Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf)]
 [[Github](https://journeydb.github.io/)]
+
+#### Video
 
 **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.**<br>
 *K Li, Y Wang, Y He, Y Li, Y Wang, Y Liu, Z Wang, J Xu, G Chen, P Luo, L Wang, Y Qiao.*<br>
