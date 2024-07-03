@@ -103,6 +103,12 @@ arXiv:2310.09036, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.09036)]
 [[Github](https://github.com/declare-lab/MM-InstructEval)]
 
+**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs.**<br>
+*Z Liu, T Chu, Y Zang, X Wei, X Dong, P Zhang, Z Liang, Y Xiong, Y Qiao, D Lin, J Wang.*<br>
+arXiv:2406.11833, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.11833)]
+[[Github](https://github.com/Liuziyu77/MMDU)]
+
 #### Image
 
 **Journeydb: A benchmark for generative image understanding.**<br>
