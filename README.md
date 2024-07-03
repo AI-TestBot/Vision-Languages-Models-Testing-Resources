@@ -48,28 +48,28 @@ Advances in Neural Information Processing Systems, 2024.
 ICCV, 2023.
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/MMFM/papers/Salin_Towards_an_Exhaustive_Evaluation_of_Vision-Language_Foundation_Models_ICCVW_2023_paper.pdf)]
 
-**Mmbench: Is your multi-modal model an all-around player?**<br>
-*Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
-[[Github](https://mmbench.opencompass.org.cn/home)]
-
 **Lvlm-ehub: A comprehensive evaluation benchmark for large vision-language models.**<br>
 *P Xu, W Shao, K Zhang, P Gao, S Liu, M Lei, F Meng, S Huang, Y Qiao, P Luo.*<br>
 arXiv:2306.09265, 2023.
 [[ArXiv](https://arxiv.org/pdf/2306.09265)]
 
-**Mm-vet: Evaluating large multimodal models for integrated capabilities.**<br>
-*W Yu, Z Yang, L Li, J Wang, K Lin, Z Liu, X Wang, L Wang.*<br>
-arXiv:2308.02490, 2023.
-[[ArXiv](https://arxiv.org/pdf/2308.02490)]
-[[Github](https://github.com/yuweihao/MM-Vet)]
+**Mmbench: Is your multi-modal model an all-around player?**<br>
+*Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.*<br>
+arXiv:2307.06281, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
+[[Github](https://mmbench.opencompass.org.cn/home)]
 
 **Seed-bench: Benchmarking multimodal llms with generative comprehension.**<br>
 *B Li, R Wang, G Wang, Y Ge, Y Ge, Y Shan.*<br>
 arXiv:2307.16125, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.16125)]
 [[Github](https://github.com/AILab-CVC/SEED-Bench)]
+
+**Mm-vet: Evaluating large multimodal models for integrated capabilities.**<br>
+*W Yu, Z Yang, L Li, J Wang, K Lin, Z Liu, X Wang, L Wang.*<br>
+arXiv:2308.02490, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.02490)]
+[[Github](https://github.com/yuweihao/MM-Vet)]
 
 **Touchstone: Evaluating vision-language models by language models.**<br>
 *S Bai, S Yang, J Bai, P Wang, X Zhang, J Lin, X Wang, C Zhou, J Zhou.*<br>
@@ -85,7 +85,7 @@ arXiv:2308.06595, 2023.
 
 **Beyond task performance: Evaluating and reducing the flaws of large multimodal models with in-context learning.**<br>
 *M Shukor, A Rame, C Dancette, M Cord.*<br>
-ArXiv, 2023.
+arXiv:2310.00647, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.00647)]
 [[Github](https://github.com/mshukor/EvALign-ICL)]
 
@@ -184,6 +184,14 @@ arXiv:2401.14011, 2024.
 *X Han, Q You, Y Liu, W Chen, H Zheng, K Mrini, et al.*<br>
 arXiv:2311.11567, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.11567)]
+
+### Visual Instruction Following
+
+**Visual instruction tuning.**<br>
+*H Liu, C Li, Q Wu, YJ Lee.*<br>
+NeurIPS, 2024.
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6dcf277ea32ce3288914faf369fe6de0-Paper-Conference.pdf)]
+[[Homepage](https://llava-vl.github.io/)]
 
 ### High-Level-Vision
 
