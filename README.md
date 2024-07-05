@@ -227,6 +227,14 @@ arXiv:2311.07397, 2023.
 [[ArXiv](https://arxiv.org/html/2311.07397v2)]
 [[Github](https://github.com/junyangwang0410/AMBER)]
 
+### Robust
+
+**Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions.**<br>
+*Y Liu, Z Liang, Y Wang, M He, J Li, B Zhao.*<br>
+arXiv:2406.10638, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.10638)]
+[[Github](https://github.com/BAAI-DCAI/Multimodal-Robustness-Benchmark)]
+
 ## Security
 
 **How many unicorns are in this image? a safety evaluation benchmark for vision llms.**<br>
