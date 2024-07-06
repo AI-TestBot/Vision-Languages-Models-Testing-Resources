@@ -153,6 +153,30 @@ CVPR, 2017.
 [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)]
 [[Homepage](https://visualqa.org/)]
 
+**Ok-vqa: A visual question answering benchmark requiring external knowledge.**<br>
+*K Marino, M Rastegari, A Farhadi, R Mottaghi.*<br>
+CVPR, 2019.
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Marino_OK-VQA_A_Visual_Question_Answering_Benchmark_Requiring_External_Knowledge_CVPR_2019_paper.pdf)]
+
+**KNVQA: A Benchmark for evaluation knowledge-based VQA.**<br>
+*S Cheng, S Zhang, J Wu, M Lan.*<br>
+arXiv:2311.12639, 2023.
+
+**Maqa: A multimodal qa benchmark for negation.**<br>
+*JY Li, A Jansen, Q Huang, J Lee, R Ganti, D Kuzmin.*<br>
+arXiv:2301.03238, 2023.
+[[ArXiv](https://arxiv.org/pdf/2301.03238)]
+
+**Multimodal multi-hop question answering through a conversation between tools and efficiently finetuned large language models.**<br>
+*H Rajabzadeh, S Wang, HJ Kwon, B Liu.*<br>
+arXiv:2309.08922, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.08922)]
+
+**Scigraphqa: A large-scale synthetic multi-turn question-answering dataset for scientific graphs.**<br>
+*S Li, N Tajbakhsh.*<br>
+arXiv:2308.03349, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.03349)]
+
 **CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning.**<br>
 *Z He, X Wu, P Zhou, R Xuan, G Liu, X Yang, Q Zhu, H Huang.*<br>
 arXiv:2401.14011, 2024.
