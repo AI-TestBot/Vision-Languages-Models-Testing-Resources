@@ -98,20 +98,10 @@ CVPR, 2024.
 
 ### Understanding
 
-**MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.**<br>
-*X Yang, W Wu, S Feng, M Wang, D Wang, Y Li, Q Sun, Y Zhang, X Fu, S Poria.*<br>
-arXiv:2310.09036, 2023.
-[[ArXiv](https://arxiv.org/pdf/2310.09036)]
-[[Github](https://github.com/declare-lab/MM-InstructEval)]
-
-**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs.**<br>
-*Z Liu, T Chu, Y Zang, X Wei, X Dong, P Zhang, Z Liang, Y Xiong, Y Qiao, D Lin, J Wang.*<br>
-arXiv:2406.11833, 2024.
-[[ArXiv](https://arxiv.org/pdf/2406.11833)]
-[[Github](https://github.com/Liuziyu77/MMDU)]
-
 |Date|Task|Title|Paper|HomePage|Github|DataSets|Organization|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|   
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023| Content | MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.|[[ArXiv]](https://arxiv.org/pdf/2310.09036) |-|[[github]](https://github.com/declare-lab/MM-InstructEval)|-|Northeastern University|
+|2024| Dialog | MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLM.|[[ArXiv]](https://arxiv.org/pdf/2406.11833) |-|[[github]](https://github.com/Liuziyu77/MMDU/)|-|WHU|
 |2024| Image | Journeydb: A benchmark for generative image understanding.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf) |-|[[github]](https://journeydb.github.io/)|-|Chinese University of Hong Kong|
 |2024| Video |MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf) |-|[[github]](https://github.com/OpenGVLab/Ask-Anything)|-|Chinese Academy of Sciences|
 |2024| Video |MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding.|[[arXiv]](https://arxiv.org/pdf/2406.04264) |-|[[Github]](https://github.com/JUNJIE99/MLVU)|-|Beijing Academy of Artificial Intelligence. |
