@@ -15,6 +15,7 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
     * 📖[Text-to-Video](#Text-to-Video)
   * 📖[VQA](#VQA)
   * 📖[Reasoning](#Reasoning)
+  * 📖[Instruction-Following](#Instruction-Following)
   * 📖[High-Level-Vision](#High-Level-Vision)
     * 📖[OCR](#OCR)
   * 📖[Low-Level-Vision](#Low-Level-Vision)
@@ -140,6 +141,18 @@ ICLR, 2024.
 
 ### VQA
 
+**Vqa: Visual question answering.**<br>
+*S Antol, A Agrawal, J Lu, M Mitchell, et al.*<br>
+ICCV, 2015.
+[[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)]
+[[Homepage](https://visualqa.org/)]
+
+**Making the v in vqa matter: Elevating the role of image understanding in visual question answering.**<br>
+*Y Goyal, T Khot, D Summers-Stay, D Batra, D Parikh, et al.*<br>
+CVPR, 2017.
+[[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)]
+[[Homepage](https://visualqa.org/)]
+
 **CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning.**<br>
 *Z He, X Wu, P Zhou, R Xuan, G Liu, X Yang, Q Zhu, H Huang.*<br>
 arXiv:2401.14011, 2024.
@@ -153,7 +166,7 @@ arXiv:2401.14011, 2024.
 arXiv:2311.11567, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.11567)]
 
-### Visual Instruction Following
+### Instruction-Following
 
 **Visual instruction tuning.**<br>
 *H Liu, C Li, Q Wu, YJ Lee.*<br>
