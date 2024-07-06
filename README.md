@@ -44,11 +44,6 @@ Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/dd83eada2c3c74db3c7fe1c087513756-Paper-Datasets_and_Benchmarks.pdf)]
 [[Github](https://github.com/stanford-crfm/helm)
 
-**Towards an Exhaustive Evaluation of Vision-Language Foundation Models.**<br>
-*E Salin, S Ayache, B Favre.*<br>
-ICCV, 2023.
-[[Paper](https://openaccess.thecvf.com/content/ICCV2023W/MMFM/papers/Salin_Towards_an_Exhaustive_Evaluation_of_Vision-Language_Foundation_Models_ICCVW_2023_paper.pdf)]
-
 **Lvlm-ehub: A comprehensive evaluation benchmark for large vision-language models.**<br>
 *P Xu, W Shao, K Zhang, P Gao, S Liu, M Lei, F Meng, S Huang, Y Qiao, P Luo.*<br>
 arXiv:2306.09265, 2023.
@@ -60,17 +55,22 @@ arXiv:2307.06281, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
 [[Github](https://mmbench.opencompass.org.cn/home)]
 
-**Seed-bench: Benchmarking multimodal llms with generative comprehension.**<br>
-*B Li, R Wang, G Wang, Y Ge, Y Ge, Y Shan.*<br>
-arXiv:2307.16125, 2023.
-[[ArXiv](https://arxiv.org/pdf/2307.16125)]
-[[Github](https://github.com/AILab-CVC/SEED-Bench)]
-
 **Mm-vet: Evaluating large multimodal models for integrated capabilities.**<br>
 *W Yu, Z Yang, L Li, J Wang, K Lin, Z Liu, X Wang, L Wang.*<br>
 arXiv:2308.02490, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.02490)]
 [[Github](https://github.com/yuweihao/MM-Vet)]
+
+**mplug-owl: Modularization empowers large language models with multimodality.**<br>
+*Q Ye, H Xu, G Xu, J Ye, M Yan, Y Zhou, J Wang, A Hu, P Shi, Y Shi, C Li, Y Xu, H Chen, et al.*<br>
+arXiv:2304.14178, 2023.
+[[ArXiv](https://arxiv.org/pdf/2304.14178)]
+
+**Seed-bench: Benchmarking multimodal llms with generative comprehension.**<br>
+*B Li, R Wang, G Wang, Y Ge, Y Ge, Y Shan.*<br>
+arXiv:2307.16125, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.16125)]
+[[Github](https://github.com/AILab-CVC/SEED-Bench)]
 
 **Touchstone: Evaluating vision-language models by language models.**<br>
 *S Bai, S Yang, J Bai, P Wang, X Zhang, J Lin, X Wang, C Zhou, J Zhou.*<br>
@@ -84,17 +84,28 @@ arXiv:2308.06595, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.06595)]
 [[Github](https://visit-bench.github.io/)]
 
-**Beyond task performance: Evaluating and reducing the flaws of large multimodal models with in-context learning.**<br>
-*M Shukor, A Rame, C Dancette, M Cord.*<br>
-arXiv:2310.00647, 2023.
-[[ArXiv](https://arxiv.org/pdf/2310.00647)]
-[[Github](https://github.com/mshukor/EvALign-ICL)]
+**Towards an Exhaustive Evaluation of Vision-Language Foundation Models.**<br>
+*E Salin, S Ayache, B Favre.*<br>
+ICCV, 2023.
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023W/MMFM/papers/Salin_Towards_an_Exhaustive_Evaluation_of_Vision-Language_Foundation_Models_ICCVW_2023_paper.pdf)]
+
+**Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi.**<br>
+*X Yue, Y Ni, K Zhang, T Zheng, R Liu, G Zhang, S Stevens, D Jiang, W Ren, Y Sun, C Wei, et al.*<br>
+CVPR, 2024.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.pdf)]
+[[Github](https://mmmu-benchmark.github.io/)]
 
 **Vbench: Comprehensive benchmark suite for video generative models.**<br>
 *Z Huang, Y He, J Yu, F Zhang, C Si, Y Jiang, Y Zhang, T Wu, Q Jin, N Chanpaisit, Y Wang, et al.*<br>
 CVPR, 2024.
 [[ArXiv](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf)]
 [[Github](https://vchitect.github.io/VBench-project/)]
+
+**Beyond task performance: Evaluating and reducing the flaws of large multimodal models with in-context learning.**<br>
+*M Shukor, A Rame, C Dancette, M Cord.*<br>
+ICLR, 2024.
+[[ArXiv](https://arxiv.org/pdf/2310.00647)]
+[[Github](https://github.com/mshukor/EvALign-ICL)]
 
 ### Understanding
 
