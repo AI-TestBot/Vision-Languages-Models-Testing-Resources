@@ -113,14 +113,16 @@ ICLR, 2024.
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2023| Content | MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.|[[ArXiv]](https://arxiv.org/pdf/2310.09036) |-|[[Github]](https://github.com/declare-lab/MM-InstructEval)|-|
 |2024| Dialog | MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLM.|[[ArXiv]](https://arxiv.org/pdf/2406.11833) |-|[[Github]](https://github.com/Liuziyu77/MMDU/)|-|
-|2024| Image | Journeydb: A benchmark for generative image understanding.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://journeydb.github.io/)|-|
-|2024| Video |MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf) |-|[[Github]](https://github.com/OpenGVLab/Ask-Anything)|-|
-|2024| Video |MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding.|[[ArXiv]](https://arxiv.org/pdf/2406.04264) |-|[[Github]](https://github.com/JUNJIE99/MLVU)|-|
+|2023| Image | Journeydb: A benchmark for generative image understanding.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://journeydb.github.io/)|-|
+|2024| Video | MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf) |-|[[Github]](https://github.com/OpenGVLab/Ask-Anything)|-|
+|2024| Video | MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding.|[[ArXiv]](https://arxiv.org/pdf/2406.04264) |-|[[Github]](https://github.com/JUNJIE99/MLVU)|-|
 
 ### Generation
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023| Text-to-Image | Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation.|[[ACMMM]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612706) |-|-|-|
+|2023| Text-to-Image | Human preference score v2: A solid benchmark for evaluating human preferences of text-to-image synthesis.|[[ArXiv]](https://arxiv.org/pdf/2306.09341) |-|[[Github]](https://github.com/tgxs002/HPSv2)|-|
 |2024| Text-to-Image | Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics.|[[ArXiv]](https://arxiv.longhoe.net/pdf/2403.11821) |-|-|-|
 |2024| Text-to-Image | Llmscore: Unveiling the power of large language models in text-to-image synthesis evaluation.|[[NeurIPS]](https://so2.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LLMScore%3A+Unveiling+the+Power+of+Large+Language+Models+in+Text-to-Image+Synthesis+Evaluation&btnG=) |-|[[Github]](https://github.com/YujieLu10/LLMScore)|-|
 |2024| Text-to-Image | Imagereward: Learning and evaluating human preferences for text-to-image generation.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/33646ef0ed554145eab65f6250fab0c9-Paper-Conference.pdf) |-|-|-|
