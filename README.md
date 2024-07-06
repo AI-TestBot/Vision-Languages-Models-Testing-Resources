@@ -107,56 +107,15 @@ CVPR, 2024.
 |2024| Video |MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding.|[[ArXiv]](https://arxiv.org/pdf/2406.04264) |-|[[Github]](https://github.com/JUNJIE99/MLVU)|-|
 ### Generation
 
-|Date|Task|Title|Paper|HomePage|Github|DataSets|Organization|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2023| Text-to-Image | Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics.|[[ArXiv]](https://arxiv.org/pdf/2310.09036) |-|[[Github]](https://github.com/declare-lab/MM-InstructEval)|-|Northeastern University|
-|2024| Dialog | MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLM.|[[ArXiv]](https://arxiv.org/pdf/2406.11833) |-|[[Github]](https://github.com/Liuziyu77/MMDU/)|-|WHU|
-|2024| Image | Journeydb: A benchmark for generative image understanding.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://journeydb.github.io/)|-|Chinese University of Hong Kong|
-|2024| Video |MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf) |-|[[Github]](https://github.com/OpenGVLab/Ask-Anything)|-|Chinese Academy of Sciences|
-|2024| Video |MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding.|[[ArXiv]](https://arxiv.org/pdf/2406.04264) |-|[[Github]](https://github.com/JUNJIE99/MLVU)|-|Beijing Academy of Artificial Intelligence |
-
-#### Text-to-Image
-
-**Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics.**<br>
-*S Hartwig, D Engel, L Sick, H Kniesel, T Payer, T Ropinski.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.longhoe.net/pdf/2403.11821)]
-
-**Llmscore: Unveiling the power of large language models in text-to-image synthesis evaluation.**<br>
-*Y Lu, X Yang, X Li, XE Wang, WY Wang.*<br>
-Advances in Neural Information Processing Systems, 2024.
-[[Paper](https://so2.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LLMScore%3A+Unveiling+the+Power+of+Large+Language+Models+in+Text-to-Image+Synthesis+Evaluation&btnG=)]
-[[Github](https://github.com/YujieLu10/LLMScore)]
-
-**Imagereward: Learning and evaluating human preferences for text-to-image generation.**<br>
-*J Xu, X Liu, Y Wu, Y Tong, Q Li, M Ding, J Tang, Y Dong.*<br>
-Advances in Neural Information Processing Systems, 2024.
-[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/33646ef0ed554145eab65f6250fab0c9-Paper-Conference.pdf)]
-
-**UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark.**<br>
-*Z Zhou, Q Wang, B Lin, Y Su, R Chen, X Tao, A Zheng, L Yuan, P Wan, D Zhang.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2404.09619)]
-
-#### Text-to-Video
-
-**Fetv: A benchmark for fine-grained evaluation of open-domain text-to-video generation.**<br>
-*Y Liu, L Li, S Ren, R Gao, S Li, S Chen, X Sun, L Hou.*<br>
-Advances in Neural Information Processing Systems, 2024.
-[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c481049f7410f38e788f67c171c64ad5-Paper-Datasets_and_Benchmarks.pdf)]
-[[Github](https://github.com/llyx97/FETV)]
-
-**Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment.**<br>
-*T Kou, X Liu, Z Zhang, C Li, H Wu, X Min, G Zhai, N Liu.*<br>
-arxiv:2403.11956, 2024.
-[[ArXiv](https://arxiv.longhoe.net/pdf/2403.11956)]
-[[Github](https://github.com/QMME/T2VQA)]
-
-**T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation.**<br>
-*P Ji, C Xiao, H Tai, M Huo, et al.*<br>
-CVPR, 2024.
-[[ArXiv](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_T2VBench_Benchmarking_Temporal_Dynamics_for_Text-to-Video_Generation_CVPRW_2024_paper.pdf)]
-[[Github](https://ji-pengliang.github.io/T2VBench/)]
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2024| Text-to-Image | Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics.|[[ArXiv]](https://arxiv.longhoe.net/pdf/2403.11821) |-|-|-|
+|2024| Text-to-Image | Llmscore: Unveiling the power of large language models in text-to-image synthesis evaluation.|[[NeurIPS]](https://so2.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LLMScore%3A+Unveiling+the+Power+of+Large+Language+Models+in+Text-to-Image+Synthesis+Evaluation&btnG=) |-|[[Github]](https://github.com/YujieLu10/LLMScore)|-|
+|2024| Text-to-Image | Imagereward: Learning and evaluating human preferences for text-to-image generation.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/33646ef0ed554145eab65f6250fab0c9-Paper-Conference.pdf) |-|-|-|
+|2024| Text-to-Image | UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark.|[[ArXiv]](https://arxiv.org/pdf/2404.09619) |-|-|-|
+|2024| Text-to-Video | Fetv: A benchmark for fine-grained evaluation of open-domain text-to-video generation.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c481049f7410f38e788f67c171c64ad5-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://github.com/llyx97/FETV)|-|
+|2024| Text-to-Video | Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment.|[[ArXiv]](https://arxiv.longhoe.net/pdf/2403.11956) |-|[[Github]](https://github.com/QMME/T2VQA)|-|
+|2024| Text-to-Video | T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_T2VBench_Benchmarking_Temporal_Dynamics_for_Text-to-Video_Generation_CVPRW_2024_paper.pdf) |-|[[Github]](https://ji-pengliang.github.io/T2VBench/)|-|
 
 ### VQA
 
