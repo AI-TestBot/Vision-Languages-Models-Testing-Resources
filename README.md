@@ -190,6 +190,41 @@ arXiv:2401.14011, 2024.
 arXiv:2311.11567, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.11567)]
 
+**Measuring and improving chain-of-thought reasoning in vision-language models.**<br>
+*Y Chen, K Sikka, M Cogswell, H Ji, A Divakaran.*<br>
+arXiv:2309.04461, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.04461)]
+[[Github](https://github.com/Yangyi-Chen/CoTConsistency)]
+
+**Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs.**<br>
+*MU Khattak, MF Naeem, J Hassan, M Naseer, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2405.03690)]
+[[Github](https://mbzuai-oryx.github.io/CVRR-Evaluation-Suite/)]
+
+**ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in Large Multimodal Models.**<br>
+*R Wadhawan, H Bansal, KW Chang, N Peng.*<br>
+arXiv:2401.13311, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.13311)]
+[[Github](https://con-textual.github.io/)]
+
+**Exploring the reasoning abilities of multimodal large language models (mllms): A comprehensive survey on emerging trends in multimodal reasoning.**<br>
+*Y Wang, W Chen, X Han, X Lin, H Zhao, Y Liu, B Zhai, J Yuan, Q You, H Yang.*<br>
+arXiv:2401.06805, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.06805)]
+
+**Mementos: A comprehensive benchmark for multimodal large language model reasoning over image sequences.**<br>
+*X Wang, Y Zhou, X Liu, H Lu, Y Xu, F He, J Yoon, T Lu, G Bertasius, M Bansal, H Yao, et al.*<br>
+arXiv:2401.10529, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.10529)]
+[[Github](https://github.com/umd-huang-lab/Mementos/)]
+
+**NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models.**<br>
+*L Fan, W Hua, X Li, K Zhu, M Jin, L Li, H Ling, J Chi, J Wang, X Ma, Y Zhang.*<br>
+arXiv:2403.01777, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.01777)]
+[[Github](https://github.com/lizhouf/NPHardEval4V)]
+
 ### Instruction-Following
 
 **Visual instruction tuning.**<br>
@@ -218,13 +253,10 @@ arXiv:2402.07116, 2024.
 
 ### Reliable
 
-#### Hallucination
-
-**An llm-free multi-dimensional benchmark for mllms hallucination evaluation.**<br>
-*J Wang, Y Wang, G Xu, J Zhang, Y Gu, H Jia, M Yan, J Zhang, J Sang.*<br>
-arXiv:2311.07397, 2023.
-[[ArXiv](https://arxiv.org/html/2311.07397v2)]
-[[Github](https://github.com/junyangwang0410/AMBER)]
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023| Hallucination | An llm-free multi-dimensional benchmark for mllms hallucination evaluation.|[[ArXiv]](https://arxiv.org/pdf/2311.07397) |-|[[Github]](https://github.com/junyangwang0410/AMBER)|-|
+|2024| Hallucination | Evaluating object hallucination in large vision-language models.|[[ArXiv]](https://arxiv.org/pdf/2305.10355) |-|-|-|
 
 ### Robust
 
