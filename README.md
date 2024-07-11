@@ -233,6 +233,12 @@ NeurIPS, 2024.
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6dcf277ea32ce3288914faf369fe6de0-Paper-Conference.pdf)]
 [[Homepage](https://llava-vl.github.io/)]
 
+**MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs.**<br>
+*Y Qian, H Ye, JP Fauconnier, P Grasch, Y Yang, et al.*<br>
+arXiv, 2024.
+[[Paper](https://arxiv.org/pdf/2407.01509)]
+[[Homepage](https://llava-vl.github.io/)]
+
 ### High-Level-Vision
 
 #### OCR
