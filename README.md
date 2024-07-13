@@ -136,6 +136,8 @@ ICLR, 2024.
 |2024| Text-to-Image | Aigiqa-20k: A large database for ai-generated image quality assessment.|[[CVPRW]](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Li_AIGIQA-20K_A_Large_Database_for_AI-Generated_Image_Quality_Assessment_CVPRW_2024_paper.pdf) |-|-|[[DataSets]](https://www.modelscope.cn/datasets/lcysyzxdxc/AIGCQA-30K-Image)|
 |2024| Text-to-Image | Imagereward: Learning and evaluating human preferences for text-to-image generation.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/33646ef0ed554145eab65f6250fab0c9-Paper-Conference.pdf) |-|-|-|
 |2024| Text-to-Image | Llmscore: Unveiling the power of large language models in text-to-image synthesis evaluation.|[[NeurIPS]](https://so2.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LLMScore%3A+Unveiling+the+Power+of+Large+Language+Models+in+Text-to-Image+Synthesis+Evaluation&btnG=) |-|[[Github]](https://github.com/YujieLu10/LLMScore)|-|
+|2024| Text-to-Image | EVALALIGN: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models.|[[ArXiv]](https://arxiv.org/pdf/2406.16562) |-|[[Github]](https://github.com/SAIS-FUXI/EvalAlign)|-|
+|2024| Text-to-Image | PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models.|[[ArXiv]](https://arxiv.org/pdf/2406.11802) |-|[[Github]](https://github.com/OpenGVLab/PhyBench)|-|
 |2023| Text-to-Video | Fetv: A benchmark for fine-grained evaluation of open-domain text-to-video generation.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c481049f7410f38e788f67c171c64ad5-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://github.com/llyx97/FETV)|-|
 |2024| Text-to-Video | Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment.|[[ArXiv]](https://arxiv.longhoe.net/pdf/2403.11956) |-|[[Github]](https://github.com/QMME/T2VQA)|-|
 |2024| Text-to-Video | T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_T2VBench_Benchmarking_Temporal_Dynamics_for_Text-to-Video_Generation_CVPRW_2024_paper.pdf) |-|[[Github]](https://ji-pengliang.github.io/T2VBench/)|-|
@@ -188,7 +190,13 @@ arXiv:2401.14011, 2024.
 *Y Kim, M Yim, KY Song.*<br>
 arXiv:2404.19205, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.19205)]
-[[Github]([https://github.com/FlagOpen/CMMU](https://github.com/naver-ai/tablevqabench))]
+[[Github](https://github.com/naver-ai/tablevqabench)]
+
+**MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering.**<br>
+*J Tang, Q Liu, Y Ye, J Lu, S Wei, C Lin, W Li, MFFB Mahmood, H Feng, Z Zhao, Y Wang, et al.*<br>
+arXiv:2405.11985, 2024.
+[[ArXiv](https://arxiv.org/pdf/2405.11985)]
+[[Github](https://bytedance.github.io/MTVQA/)]
 
 ### Reasoning
 
@@ -308,6 +316,12 @@ arXiv:2311.16101, 2023.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.13951v2)]
 [[HomePage](https://mllm-bench.llmzoo.com/)]
+
+**Mllm-as-a-judge: Assessing multimodal llm-as-a-judge with vision-language benchmark.**<br>
+*D Chen, R Chen, S Zhang, Y Liu, Y Wang, H Zhou, Q Zhang, P Zhou, Y Wan, L Sun.*<br>
+arXiv:2402.04788, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.04788)]
+[[HomePage](https://mllm-judge.github.io/)]
 
 ## Testing-Tools
 
