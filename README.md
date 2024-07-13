@@ -15,6 +15,7 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
     * 📖[Text-to-Video](#Text-to-Video)
   * 📖[VQA](#VQA)
   * 📖[Reasoning](#Reasoning)
+  * 📖[Multilingual](#Multilingual)
   * 📖[Instruction-Following](#Instruction-Following)
   * 📖[High-Level-Vision](#High-Level-Vision)
     * 📖[OCR](#OCR)
@@ -183,6 +184,12 @@ arXiv:2401.14011, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.14011)]
 [[Github](https://github.com/FlagOpen/CMMU)]
 
+**TableVQA-Bench: A Visual Question Answering Benchmark on Multiple Table Domains.**<br>
+*Y Kim, M Yim, KY Song.*<br>
+arXiv:2404.19205, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.19205)]
+[[Github]([https://github.com/FlagOpen/CMMU](https://github.com/naver-ai/tablevqabench))]
+
 ### Reasoning
 
 **InfiMM-Eval: Complex Open-Ended Reasoning Evaluation For Multi-Modal Large Language Models.**<br>
@@ -225,6 +232,14 @@ arXiv:2403.01777, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.01777)]
 [[Github](https://github.com/lizhouf/NPHardEval4V)]
 
+### Multilingual
+
+**CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark.**<br>
+*D Romero, C Lyu, HA Wibowo, T Lynn, I Hamed, AN Kishore, A Mandal, A Dragonetti, et al.*<br>
+arXiv:2406.05967, 2024.
+[[Paper](https://arxiv.org/pdf/2406.05967f)]
+[[DataSets](https://huggingface.co/datasets/afaji/cvqa)]
+
 ### Instruction-Following
 
 **Visual instruction tuning.**<br>
@@ -250,6 +265,10 @@ arXiv:2305.07895, 2023.
 [[Github](https://github.com/Yuliang-Liu/MultimodalOCR)]
 
 ### Low-Level-Vision
+**Q-bench: A benchmark for general-purpose foundation models on low-level vision.**<br>
+*H Wu, Z Zhang, E Zhang, C Chen, L Liao, A Wang, C Li, W Sun, Q Yan, G Zhai, W Lin.*<br>
+arXiv:2309.14181, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.14181)]
 
 **A Benchmark for Multi-modal Foundation Models on Low-level Vision: from Single Images to Pairs.**<br>
 *Z Zhang, H Wu, E Zhang, G Zhai, W Lin.*<br>
