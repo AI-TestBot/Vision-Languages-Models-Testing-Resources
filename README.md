@@ -24,6 +24,7 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
     * 📖[Hallucination](#Hallucination)
   * 📖[Robust](#Robust)
 * 📖[Security](#Security)
+* 📖[Human-Machine-Interaction](#Human-Machine-Interaction)
 * 📖[Testing-Methods](#Testing-Methods)
 * 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
@@ -306,6 +307,14 @@ arXiv:2406.10638, 2024.
 arXiv:2311.16101, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.16101)]
 [[Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark)]
+
+## Human-Machine-Interaction
+
+**WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences.**<br>
+*Y Lu, D Jiang, W Chen, WY Wang, Y Choi, BY Lin.*<br>
+arXiv:2406.11069, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.11069)]
+[[DataSets](https://huggingface.co/spaces/WildVision/vision-arena)]
 
 ## Testing-Methods
 
