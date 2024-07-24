@@ -308,6 +308,12 @@ arXiv:2311.16101, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.16101)]
 [[Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark)]
 
+**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models.**<br>
+*Y Wu, W Yu, Y Cheng, Y Wang, X Zhang, J Xu, M Ding, Y Dong.*<br>
+arXiv:2406.09295, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.09295)]
+[[Github](https://alignmmbench.github.io/)]
+
 ## Human-Machine-Interaction
 
 **WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences.**<br>
