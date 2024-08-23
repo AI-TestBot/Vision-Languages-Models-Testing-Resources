@@ -142,7 +142,7 @@ ICLR, 2024.
 |2024| Text-to-Image | EVALALIGN: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models.|[[ArXiv]](https://arxiv.org/pdf/2406.16562) |-|[[Github]](https://github.com/SAIS-FUXI/EvalAlign)|-|
 |2024| Text-to-Image | PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models.|[[ArXiv]](https://arxiv.org/pdf/2406.11802) |-|[[Github]](https://github.com/OpenGVLab/PhyBench)|-|
 |2024| Text-to-Image | PTlTScore: Towards Long-Tail Effects in Text-to-Visual Evaluation with Generative Foundation Models.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_TlTScore_Towards_Long-Tail_Effects_in_Text-to-Visual_Evaluation_with_Generative_Foundation_CVPRW_2024_paper.pdf) |-|-|-|
-|2024| Text-to-Image | FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models.|[[CVPR]](FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models) |-|[[Github]](https://github.com/thu-nics/FlashEval)|-|
+|2024| Text-to-Image | FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_FlashEval_Towards_Fast_and_Accurate_Evaluation_of_Text-to-image_Diffusion_Generative_CVPR_2024_paper.pdf) |-|[[Github]](https://github.com/thu-nics/FlashEval)|-|
 
 #### Text-to-Video
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
