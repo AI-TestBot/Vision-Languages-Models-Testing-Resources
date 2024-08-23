@@ -45,7 +45,7 @@ ArXiv, 2024.
 *T Lee, M Yasunaga, C Meng, Y Mai, JS Park, A Gupta, Y Zhang, D Narayanan, H Teufel, et al.*<br>
 Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/dd83eada2c3c74db3c7fe1c087513756-Paper-Datasets_and_Benchmarks.pdf)]
-[[Github](https://github.com/stanford-crfm/helm)
+[[Github](https://github.com/stanford-crfm/helm)]
 
 **Lvlm-ehub: A comprehensive evaluation benchmark for large vision-language models.**<br>
 *P Xu, W Shao, K Zhang, P Gao, S Liu, M Lei, F Meng, S Huang, Y Qiao, P Luo.*<br>
@@ -325,11 +325,10 @@ arXiv:2311.16101, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.16101)]
 [[Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark)]
 
-**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models.**<br>
-*Y Wu, W Yu, Y Cheng, Y Wang, X Zhang, J Xu, M Ding, Y Dong.*<br>
-arXiv:2406.09295, 2024.
-[[ArXiv](https://arxiv.org/pdf/2406.09295)]
-[[Github](https://alignmmbench.github.io/)]
+**T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models.**<br>
+*Y Miao, Y Zhu, Y Dong, L Yu, J Zhu, XS Gao.*<br>
+arxiv:2407.05965, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.05965)]
 
 ## Human-Machine-Interaction
 
@@ -338,6 +337,12 @@ arXiv:2406.09295, 2024.
 arXiv:2406.11069, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.11069)]
 [[DataSets](https://huggingface.co/spaces/WildVision/vision-arena)]
+
+**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models.**<br>
+*Y Wu, W Yu, Y Cheng, Y Wang, X Zhang, J Xu, M Ding, Y Dong.*<br>
+arXiv:2406.09295, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.09295)]
+[[Github](https://alignmmbench.github.io/)]
 
 ## Testing-Methods
 
@@ -356,6 +361,12 @@ arXiv:2402.04788, 2024.
 [[HomePage](https://mllm-judge.github.io/)]
 
 ## Testing-Tools
+
+**GenAI Arena: An Open Evaluation Platform for Generative Models.**<br>
+*D Jiang, M Ku, T Li, Y Ni, S Sun, R Fan, W Chen.*<br>
+arxiv:2406.04485, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.04485)]
+[[HomePage](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)]
 
 **lmms-eval**<br>
 *Openai*<br>
