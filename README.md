@@ -122,6 +122,8 @@ ICLR, 2024.
 
 ### Generation
 
+#### Text-to-Image
+
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2023| Text-to-Image | Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation.|[[ACMMM]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612706) |-|-|-|
@@ -141,10 +143,15 @@ ICLR, 2024.
 |2024| Text-to-Image | PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models.|[[ArXiv]](https://arxiv.org/pdf/2406.11802) |-|[[Github]](https://github.com/OpenGVLab/PhyBench)|-|
 |2024| Text-to-Image | PTlTScore: Towards Long-Tail Effects in Text-to-Visual Evaluation with Generative Foundation Models.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_TlTScore_Towards_Long-Tail_Effects_in_Text-to-Visual_Evaluation_with_Generative_Foundation_CVPRW_2024_paper.pdf) |-|-|-|
 |2024| Text-to-Image | FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models.|[[CVPR]](FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models) |-|[[Github]](https://github.com/thu-nics/FlashEval)|-|
+
+#### Text-to-Video
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2023| Text-to-Video | Fetv: A benchmark for fine-grained evaluation of open-domain text-to-video generation.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c481049f7410f38e788f67c171c64ad5-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://github.com/llyx97/FETV)|-|
 |2024| Text-to-Video | Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment.|[[ArXiv]](https://arxiv.longhoe.net/pdf/2403.11956) |-|[[Github]](https://github.com/QMME/T2VQA)|-|
-|2024| Text-to-Video | T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_T2VBench_Benchmarking_Temporal_Dynamics_for_Text-to-Video_Generation_CVPRW_2024_paper.pdf) |-|[[Github]](https://ji-pengliang.github.io/T2VBench/)|-|
 |2024| Text-to-Video | AIGC-VQA: A Holistic Perception Metric for AIGC Video Quality Assessment.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Lu_AIGC-VQA_A_Holistic_Perception_Metric_for_AIGC_Video_Quality_Assessment_CVPRW_2024_paper.pdf) |-|-|-|
+|2024| Text-to-Video | Evalcrafter: Benchmarking and evaluating large video generation models.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EvalCrafter_Benchmarking_and_Evaluating_Large_Video_Generation_Models_CVPR_2024_paper.pdf) |[[Homepage]](https://evalcrafter.github.io/)|[[Github]](https://github.com/EvalCrafter/EvalCrafter)|-|
+|2024| Text-to-Video | T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_T2VBench_Benchmarking_Temporal_Dynamics_for_Text-to-Video_Generation_CVPRW_2024_paper.pdf) |-|[[Github]](https://ji-pengliang.github.io/T2VBench/)|-|
 
 ### VQA
 
