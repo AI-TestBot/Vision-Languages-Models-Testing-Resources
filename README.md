@@ -24,6 +24,7 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
     * 📖[Hallucination](#Hallucination)
   * 📖[Robust](#Robust)
 * 📖[Security](#Security)
+* 📖[Applications](#Agent)
 * 📖[Human-Machine-Interaction](#Human-Machine-Interaction)
 * 📖[Testing-Methods](#Testing-Methods)
 * 📖[Testing-Tools](#Testing-Tools)
@@ -316,6 +317,16 @@ arXiv:2402.07116, 2024.
 arXiv:2406.10638, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.10638)]
 [[Github](https://github.com/BAAI-DCAI/Multimodal-Robustness-Benchmark)]
+
+## Applications
+
+### Agent
+
+**VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents.**<br>
+*---.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.06327)]
+[[Github](https://github.com/THUDM/VisualAgentBench)]
 
 ## Security
 
