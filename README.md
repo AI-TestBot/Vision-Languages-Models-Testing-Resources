@@ -357,6 +357,12 @@ arXiv:2406.09295, 2024.
 
 ## Testing-Methods
 
+**Task Me Anything.**<br>
+*J Zhang, W Huang, Z Ma, O Michel, D He, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.11775)]
+[[HomePage](https://github.com/JieyuZ2/TaskMeAnything)]
+
 ### Evaluation
 
 **MLLM-Bench: Evaluating Multimodal LLMs with Per-sample Criteria.**<br>
