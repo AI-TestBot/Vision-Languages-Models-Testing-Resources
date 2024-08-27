@@ -363,6 +363,11 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.11775)]
 [[HomePage](https://github.com/JieyuZ2/TaskMeAnything)]
 
+**A lightweight generalizable evaluation and enhancement framework for generative models and generated samples.**<br>
+*G Zhao, V Magoulianitis, S You, CCJ Kuo.*<br>
+WACV, 2024.
+[[ArXiv(https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Zhao_A_Lightweight_Generalizable_Evaluation_and_Enhancement_Framework_for_Generative_Models_WACVW_2024_paper.pdf)]
+
 ### Evaluation
 
 **MLLM-Bench: Evaluating Multimodal LLMs with Per-sample Criteria.**<br>
@@ -376,6 +381,12 @@ ArXiv, 2023.
 arXiv:2402.04788, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.04788)]
 [[HomePage](https://mllm-judge.github.io/)]
+
+**MJ-BENCH Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation**<br>
+*Z Chen, Y Du, Z Wen, Y Zhou, C Cui, Z Weng, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.04842)]
+[[HomePage](https://huggingface.co/MJ-Bench)]
 
 ## Testing-Tools
 
