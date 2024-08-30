@@ -24,7 +24,10 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
     * 📖[Hallucination](#Hallucination)
   * 📖[Robust](#Robust)
 * 📖[Security](#Security)
-* 📖[Applications](#Agent)
+* 📖[Application](#Application)
+    * 📖[Agent](#Agent)
+* 📖[Industry](#Industry)
+    * 📖[Medical](#Medical)
 * 📖[Human-Machine-Interaction](#Human-Machine-Interaction)
 * 📖[Testing-Methods](#Testing-Methods)
 * 📖[Testing-Tools](#Testing-Tools)
@@ -292,6 +295,7 @@ arXiv:2305.07895, 2023.
 [[Github](https://github.com/Yuliang-Liu/MultimodalOCR)]
 
 ### Low-Level-Vision
+
 **Q-bench: A benchmark for general-purpose foundation models on low-level vision.**<br>
 *H Wu, Z Zhang, E Zhang, C Chen, L Liao, A Wang, C Li, W Sun, Q Yan, G Zhai, W Lin.*<br>
 arXiv:2309.14181, 2023.
@@ -312,21 +316,23 @@ arXiv:2402.07116, 2024.
 
 ### Robust
 
+**Fool your (vision and) language model with embarrassingly simple permutations.**<br>
+*Y Zong, T Yu, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2310.01651)]
+[[Github](https://github.com/ys-zong/FoolyourVLLMs)]
+
 **Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions.**<br>
 *Y Liu, Z Liang, Y Wang, M He, J Li, B Zhao.*<br>
 arXiv:2406.10638, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.10638)]
 [[Github](https://github.com/BAAI-DCAI/Multimodal-Robustness-Benchmark)]
 
-## Applications
-
-### Agent
-
-**VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents.**<br>
-*---.*<br>
-arXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2408.06327)]
-[[Github](https://github.com/THUDM/VisualAgentBench)]
+**Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models.**<br>
+*S Chen, J Gu, Z Han, Y Ma, P Torr, V Tresp.*<br>
+Advances in Neural Information Processing Systems, 2024.
+[[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/a2a544e43acb8b954dc5846ff0d77ad5-Paper-Datasets_and_Benchmarks.pdf)]
+[[Github](https://adarobustness.github.io/)]
 
 ## Security
 
@@ -340,6 +346,26 @@ arXiv:2311.16101, 2023.
 *Y Miao, Y Zhu, Y Dong, L Yu, J Zhu, XS Gao.*<br>
 arxiv:2407.05965, 2024.
 [[ArXiv](https://arxiv.org/pdf/2407.05965)]
+
+## Application
+
+### Agent
+
+**VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents.**<br>
+*X Liu, T Zhang, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.06327)]
+[[Github](https://github.com/THUDM/VisualAgentBench)]
+
+## Industry
+
+### Medical
+
+**Omnimedvqa: A new large-scale comprehensive evaluation benchmark for medical lvlm.**<br>
+*Y Hu, T Li, Q Lu, W Shao, J He, Y Qiao, P Luo.*<br>
+CVPR, 2024.
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_OmniMedVQA_A_New_Large-Scale_Comprehensive_Evaluation_Benchmark_for_Medical_LVLM_CVPR_2024_paper.pdf)]
+[[Github](https://github.com/OpenGVLab/Multi-Modality-Arena)]
 
 ## Human-Machine-Interaction
 
