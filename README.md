@@ -41,6 +41,12 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.15071.pdf)]
 [[Github](https://openlamm.github.io/Leaderboards)]
 
+**A Survey on Benchmarks of Multimodal Large Language Models.**<br>
+*J Li, W Lu.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.08632)]
+[[Github](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey)]
+
 ## 📖General 
 
 ### Comprehensive
@@ -313,6 +319,7 @@ arXiv:2402.07116, 2024.
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2023| Hallucination | An llm-free multi-dimensional benchmark for mllms hallucination evaluation.|[[ArXiv]](https://arxiv.org/pdf/2311.07397) |-|[[Github]](https://github.com/junyangwang0410/AMBER)|-|
 |2024| Hallucination | Evaluating object hallucination in large vision-language models.|[[ArXiv]](https://arxiv.org/pdf/2305.10355) |-|-|-|
+|2024| Hallucination | LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models.|[[ArXiv]](https://arxiv.org/pdf/2407.12772) |-|-|-|
 
 ### Robust
 
