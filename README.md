@@ -430,7 +430,7 @@ arxiv:2406.04485, 2024.
 [[HomePage](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)]
 
 **lmms-eval**<br>
-*Openai*<br>
+*LMMs-Lab*<br>
 [[HomePage](https://lmms-lab.github.io/)]
 [[Github](https://github.com/EvolvingLMMs-Lab/lmms-eval)]
 
