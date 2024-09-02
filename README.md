@@ -434,6 +434,10 @@ arxiv:2406.04485, 2024.
 [[HomePage](https://lmms-lab.github.io/)]
 [[Github](https://github.com/EvolvingLMMs-Lab/lmms-eval)]
 
+**Multi-Modality-Arena**<br>
+*OpenGVLab*<br>
+[[Github](https://github.com/OpenGVLab)]
+
 ## Challenges
 
 **Are We on the Right Way for Evaluating Large Vision-Language Models?**<br>
