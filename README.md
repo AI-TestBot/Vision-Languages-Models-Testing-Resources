@@ -388,6 +388,12 @@ arXiv:2406.09295, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.09295)]
 [[Github](https://alignmmbench.github.io/)]
 
+**Mmtom-qa: Multimodal theory of mind question answering.**<br>
+*C Jin, Y Wu, J Cao, J Xiang, YL Kuo, Z Hu, T Ullman, A Torralba, JB Tenenbaum, T Shu.*<br>
+arXiv:2401.08743, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.08743)]
+[[Github](https://chuanyangjin.com/mmtom-qa)]
+
 ## Testing-Methods
 
 **Task Me Anything.**<br>
