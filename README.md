@@ -189,6 +189,11 @@ CVPR, 2017.
 CVPR, 2019.
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Marino_OK-VQA_A_Visual_Question_Answering_Benchmark_Requiring_External_Knowledge_CVPR_2019_paper.pdf)]
 
+**ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasonin.**<br>
+*A Masry, DX Long, JQ Tan, S Joty, E Hoque.*<br>
+arxiv:2203.10244, 2022.
+[[Paper](https://arxiv.org/pdf/2203.10244)]
+
 **KNVQA: A Benchmark for evaluation knowledge-based VQA.**<br>
 *S Cheng, S Zhang, J Wu, M Lan.*<br>
 arXiv:2311.12639, 2023.
@@ -267,6 +272,12 @@ arXiv:2401.10529, 2024.
 arXiv:2403.01777, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.01777)]
 [[Github](https://github.com/lizhouf/NPHardEval4V)]
+
+**Mathvista: Evaluating math reasoning in visual contexts with gpt-4v, bard, and other large multimodal models.**<br>
+*P Lu, H Bansal, T **a, J Liu, C Li, H Hajishirzi, et al.*<br>
+ICLR, 2024.
+[[Homepage](https://mathvista.github.io/)]
+[[Github](https://github.com/lupantech/MathVista)]
 
 ### Multilingual
 
