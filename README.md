@@ -416,7 +416,7 @@ ArXiv, 2024.
 **A lightweight generalizable evaluation and enhancement framework for generative models and generated samples.**<br>
 *G Zhao, V Magoulianitis, S You, CCJ Kuo.*<br>
 WACV, 2024.
-[[ArXiv(https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Zhao_A_Lightweight_Generalizable_Evaluation_and_Enhancement_Framework_for_Generative_Models_WACVW_2024_paper.pdf)]
+[[ArXiv](https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Zhao_A_Lightweight_Generalizable_Evaluation_and_Enhancement_Framework_for_Generative_Models_WACVW_2024_paper.pdf)]
 
 ### Quality Evaluation
 
