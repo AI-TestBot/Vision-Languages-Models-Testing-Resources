@@ -407,7 +407,7 @@ ArXiv, 2024.
 WACV, 2024.
 [[ArXiv(https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Zhao_A_Lightweight_Generalizable_Evaluation_and_Enhancement_Framework_for_Generative_Models_WACVW_2024_paper.pdf)]
 
-### Evaluation
+### Quality Evaluation
 
 **MLLM-Bench: Evaluating Multimodal LLMs with Per-sample Criteria.**<br>
 *W Ge, S Chen, et al.*<br>
@@ -434,6 +434,10 @@ ArXiv, 2024.
 arxiv:2406.04485, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.04485)]
 [[HomePage](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)]
+
+**VLMEvalKit**<br>
+*Shanghai AI LAB*<br>
+[[Github](https://github.com/open-compass/VLMEvalKit)]
 
 **lmms-eval**<br>
 *LMMs-Lab*<br>
