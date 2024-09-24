@@ -285,6 +285,12 @@ ICLR, 2024.
 [[Homepage](https://mathvista.github.io/)]
 [[Github](https://github.com/lupantech/MathVista)]
 
+**MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark.**<br>
+*X Yue, T Zheng, Y Ni, Y Wang, K Zhang, S Tong, Y Sun, M Yin, B Yu, G Zhang, H Sun, Y Su, et al.*<br>
+arxiv:2409.02813, 2024.
+[[ArXiv](https://arxiv.org/pdf/2409.02813)]
+[[Github](https://mmmu-benchmark.github.io/#leaderboard)]
+
 ### Multilingual
 
 **CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark.**<br>
