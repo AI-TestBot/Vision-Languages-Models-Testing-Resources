@@ -175,6 +175,7 @@ ICLR, 2024.
 |2024| Text-to-Video | AIGC-VQA: A Holistic Perception Metric for AIGC Video Quality Assessment.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Lu_AIGC-VQA_A_Holistic_Perception_Metric_for_AIGC_Video_Quality_Assessment_CVPRW_2024_paper.pdf) |-|-|-|
 |2024| Text-to-Video | Evalcrafter: Benchmarking and evaluating large video generation models.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EvalCrafter_Benchmarking_and_Evaluating_Large_Video_Generation_Models_CVPR_2024_paper.pdf) |[[Homepage]](https://evalcrafter.github.io/)|[[Github]](https://github.com/EvalCrafter/EvalCrafter)|-|
 |2024| Text-to-Video | T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_T2VBench_Benchmarking_Temporal_Dynamics_for_Text-to-Video_Generation_CVPRW_2024_paper.pdf) |-|[[Github]](https://ji-pengliang.github.io/T2VBench/)|-|
+|2024| Text-to-Video | Benchmarking AIGC Video Quality Assessment: A Dataset and Unified Model.|[[ArXiv]](https://arxiv.org/pdf/2407.21408) |-|-|-|
 
 ### VQA
 
