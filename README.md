@@ -380,6 +380,14 @@ arxiv:2407.05965, 2024.
 
 ## Application
 
+### Search
+
+**MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines.**<br>
+*D Jiang, R Zhang, Z Guo, Y Wu, J Lei, P Qiu, P Lu, Z Chen, G Song, P Gao, Y Liu, C Li, H Li.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2409.12959)]
+[[Github](https://mmsearch.github.io/)]
+
 ### Agent
 
 **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents.**<br>
