@@ -155,6 +155,7 @@ arXiv, 2024.
 |2023| Image | Journeydb: A benchmark for generative image understanding.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://journeydb.github.io/)|-|
 |2024| Image | MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models.|[[ArXiv]](https://arxiv.org/pdf/2408.02718) |-|[[Github]](https://mmiu-bench.github.io/)|-|
 |2024| Image | MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations.|[[ArXiv]](https://arxiv.org/pdf/2407.01523) |-|[[Github]](https://github.com/mayubo2333/MMLongBench-Doc)|-|
+|2024| Relation | [CRPE] The all-seeing project v2: Towards general relation comprehension of the open world.|[[ArXiv]](https://arxiv.org/pdf/2402.19474) |-|[[Github]](https://github.com/OpenGVLab/all-seeing)|[[HuggingFace]](https://huggingface.co/datasets/OpenGVLab/CRPE)|
 |2024| Video | MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf) |-|[[Github]](https://github.com/OpenGVLab/Ask-Anything)|-|
 |2024| Video | MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding.|[[ArXiv]](https://arxiv.org/pdf/2406.04264) |-|[[Github]](https://github.com/JUNJIE99/MLVU)|-|
 
@@ -344,6 +345,12 @@ arXiv:2402.14804, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.14804)]
 [[Github](https://mathvision-cuhk.github.io/)]
 
+**[Mathverse] Mathverse: Does your multi-modal llm truly see the diagrams in visual math problems?.**<br>
+*R Zhang, D Jiang, Y Zhang, H Lin, Z Guo, P Qiu, A Zhou, P Lu, KW Chang, P Gao, H Li.*<br>
+arXiv:2403.14624, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.14804)]
+[[Github](https://mathverse-cuhk.github.io/)]
+
 ### Multilingual
 
 **CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark.**<br>
@@ -417,6 +424,7 @@ arXiv:2402.07116, 2024.
 |2024| Hallucination | [POPE] Evaluating object hallucination in large vision-language models.|[[ArXiv]](https://arxiv.org/pdf/2305.10355) |-|-|-|
 |2024| Hallucination | LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models.|[[ArXiv]](https://arxiv.org/pdf/2407.12772) |-|-|-|
 |2024| Hallucination | [Hallusionbench] Hallusionbench: You see what you think? or you think what you see? an image-context reasoning benchmark challenging for gpt-4v (ision), llava-1.5, and other multi-modality models.|[[CVPR]](https://arxiv.org/pdf/2310.14566) |-|[[Github]](https://github.com/tianyi-lab/HallusionBench)|-|
+|2024| Hallucination | Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models.|[[ArXiv]](https://arxiv.org/pdf/2402.14804) |-|[[Github]](https://mathvision-cuhk.github.io/)|-|
 
 ### Robust
 
@@ -472,6 +480,12 @@ arXiv, 2024.
 ## Industry
 
 ### Medical
+
+**Gmai-mmbench: A comprehensive multimodal evaluation benchmark towards general medical ai.**<br>
+*P Chen, J Ye, G Wang, Y Li, Z Deng, W Li, T Li, H Duan, Z Huang, Y Su, B Wang, S Zhang, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.03361)]
+[[Huggingface](https://huggingface.co/papers/2408.03361)]
 
 **Omnimedvqa: A new large-scale comprehensive evaluation benchmark for medical lvlm.**<br>
 *Y Hu, T Li, Q Lu, W Shao, J He, Y Qiao, P Luo.*<br>
