@@ -314,6 +314,12 @@ arXiv:2406.05967, 2024.
 [[Paper](https://arxiv.org/pdf/2406.05967f)]
 [[DataSets](https://huggingface.co/datasets/afaji/cvqa)]
 
+**[MMMB] Parrot: Multilingual Visual Instruction Tuning.**<br>
+*HL Sun, DW Zhou, Y Li, S Lu, C Yi, QG Chen, Z Xu, W Luo, K Zhang, DC Zhan, HJ Ye.*<br>
+arXiv:2406.02539, 2024.
+[[Paper](https://arxiv.org/pdf/2406.02539)]
+[[Github](https://github.com/AIDC-AI/Parrot)]
+
 ### Instruction-Following
 
 **Visual instruction tuning.**<br>
