@@ -388,7 +388,13 @@ arXiv:2305.07895, 2023.
 *Y Huang, Q Yuan, X Sheng, Z Yang, H Wu, P Chen, Y Yang, L Li, W Lin.*<br>
 arXiv:2401.08276, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.08276)]
-[[Github](https://arxiv.org/pdf/2401.08276)]
+[[Github](https://github.com/yipoh/AesBench)]
+
+**[A-Bench] A-Bench: Are LMMs Masters at Evaluating AI-generated Images?**<br>
+*Z Zhang, H Wu, C Li, Y Zhou, W Sun, X Min, Z Chen, X Liu, W Lin, G Zhai.*<br>
+arXiv:2406.03070, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.08276)]
+[[Github](https://github.com/Q-Future/A-Bench)]
 
 ### Low-Level-Vision
 
