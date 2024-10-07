@@ -63,6 +63,15 @@ Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/dd83eada2c3c74db3c7fe1c087513756-Paper-Datasets_and_Benchmarks.pdf)]
 [[Github](https://github.com/stanford-crfm/helm)]
 
+**MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models.**<br>
+*Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others.*<br>
+arXiv:2306.13394, 2023.
+
+**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**<br>
+*YF Zhang, H Zhang, H Tian, C Fu, S Zhang, J Wu, F Li, K Wang, Q Wen, Z Zhang, L Wang, et al.*<br>
+arXiv:2408.13257, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.13257)]
+
 **Lvlm-ehub: A comprehensive evaluation benchmark for large vision-language models.**<br>
 *P Xu, W Shao, K Zhang, P Gao, S Liu, M Lei, F Meng, S Huang, Y Qiao, P Luo.*<br>
 arXiv:2306.09265, 2023.
