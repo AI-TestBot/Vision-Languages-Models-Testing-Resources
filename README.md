@@ -25,6 +25,7 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
   * 📖[Robust](#Robust)
 * 📖[Security](#Security)
 * 📖[Application](#Application)
+    * 📖[Search](#Search)
     * 📖[Agent](#Agent)
 * 📖[Industry](#Industry)
     * 📖[Medical](#Medical)
@@ -124,6 +125,12 @@ CVPR, 2024.
 ICLR, 2024.
 [[ArXiv](https://arxiv.org/pdf/2310.00647)]
 [[Github](https://github.com/mshukor/EvALign-ICL)]
+
+**[HR-Bench]Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models.**<br>
+*W Wang, L Ding, M Zeng, X Zhou, L Shen, Y Luo, D Tao.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.15556)]
+[[Github](https://github.com/DreamMr/HR-Bench)]
 
 ### Understanding
 
