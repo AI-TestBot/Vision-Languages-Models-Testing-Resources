@@ -114,7 +114,7 @@ CVPR, 2024.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.pdf)]
 [[Github](https://mmmu-benchmark.github.io/)]
 
-**Vbench: Comprehensive benchmark suite for video generative models.**<br>
+**[Vbench]Vbench: Comprehensive benchmark suite for video generative models.**<br>
 *Z Huang, Y He, J Yu, F Zhang, C Si, Y Jiang, Y Zhang, T Wu, Q Jin, N Chanpaisit, Y Wang, et al.*<br>
 CVPR, 2024.
 [[ArXiv](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf)]
@@ -131,6 +131,13 @@ ICLR, 2024.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2408.15556)]
 [[Github](https://github.com/DreamMr/HR-Bench)]
+
+**[MuirBench]MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding.**<br>
+*F Wang, X Fu, JY Huang, Z Li, Q Liu, X Liu, MD Ma, N Xu, W Zhou, K Zhang, TL Yan, WJ Mo, et al.*<br>
+arXiv:2406.09411, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.09411)]
+[[Github](https://github.com/muirbench/MuirBench)]
+[[HuggingFace](https://huggingface.co/datasets/MUIRBENCH/MUIRBENCH)]
 
 ### Understanding
 
