@@ -155,6 +155,12 @@ arXiv, 2024.
 [[Github](https://mmt-bench.github.io/)]
 [[HuggingFace](https://huggingface.co/datasets/Kaining/MMT-Bench)]
 
+**[Blink] Blink: Multimodal large language models can see but not perceive.**<br>
+*X Fu, Y Hu, B Li, Y Feng, H Wang, X Lin, D Roth, NA Smith, WC Ma, R Krishna.*<br>
+arxiv:2404.12390, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.12390)]
+[[Github](https://zeyofu.github.io/blink/)]
+
 ### Understanding
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
@@ -469,6 +475,11 @@ arXiv:2311.16101, 2023.
 arxiv:2407.05965, 2024.
 [[ArXiv](https://arxiv.org/pdf/2407.05965)]
 
+**MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models.**<br>
+*T Gu, Z Zhou, K Huang, D Liang, Y Wang, H Zhao, Y Yao, X Qiao, K Wang, Y Yang, Y Teng, et al.*<br>
+arxiv:2406.07594, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.07594)]
+
 ## Application
 
 ### Search
@@ -550,7 +561,7 @@ arXiv:2402.04788, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.04788)]
 [[HomePage](https://mllm-judge.github.io/)]
 
-**MJ-BENCH Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation**<br>
+**MJ-BENCH Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation.**<br>
 *Z Chen, Y Du, Z Wen, Y Zhou, C Cui, Z Weng, et al.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2407.04842)]
