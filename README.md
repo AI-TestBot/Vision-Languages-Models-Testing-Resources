@@ -215,6 +215,12 @@ CVPR, 2019.
 arxiv:2203.10244, 2022.
 [[Paper](https://arxiv.org/pdf/2203.10244)]
 
+**[ScienceQA] Learn to explain: Multimodal reasoning via thought chains for science question answering.**<br>
+*P Lu, S Mishra, T Xia, L Qiu, KW Chang, SC Zhu, O Tafjord, P Clark, A Kalyan.*<br>
+Advances in Neural Information Processing Systems, 2022.
+[[Neurips](https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf)]
+[[Github](https://scienceqa.github.io/)]
+
 **KNVQA: A Benchmark for evaluation knowledge-based VQA.**<br>
 *S Cheng, S Zhang, J Wu, M Lan.*<br>
 arXiv:2311.12639, 2023.
@@ -370,6 +376,7 @@ arXiv:2402.07116, 2024.
 |2023| Hallucination | An llm-free multi-dimensional benchmark for mllms hallucination evaluation.|[[ArXiv]](https://arxiv.org/pdf/2311.07397) |-|[[Github]](https://github.com/junyangwang0410/AMBER)|-|
 |2024| Hallucination | Evaluating object hallucination in large vision-language models.|[[ArXiv]](https://arxiv.org/pdf/2305.10355) |-|-|-|
 |2024| Hallucination | LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models.|[[ArXiv]](https://arxiv.org/pdf/2407.12772) |-|-|-|
+|2024| Hallucination | Hallusionbench: You see what you think? or you think what you see? an image-context reasoning benchmark challenging for gpt-4v (ision), llava-1.5, and other multi-modality models.|[[CVPR]](https://arxiv.org/pdf/2310.14566) |-|[[Github]](https://github.com/tianyi-lab/HallusionBench)|-|
 
 ### Robust
 
