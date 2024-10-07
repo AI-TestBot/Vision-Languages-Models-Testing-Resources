@@ -338,6 +338,12 @@ arxiv:2409.02813, 2024.
 [[ArXiv](https://arxiv.org/pdf/2409.02813)]
 [[Github](https://mmmu-benchmark.github.io/#leaderboard)]
 
+**[MATH-V] Measuring multimodal mathematical reasoning with math-vision dataset.**<br>
+*K Wang, J Pan, W Shi, Z Lu, M Zhan, H Li.*<br>
+arXiv:2402.14804, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.14804)]
+[[Github](https://mathvision-cuhk.github.io/)]
+
 ### Multilingual
 
 **CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark.**<br>
