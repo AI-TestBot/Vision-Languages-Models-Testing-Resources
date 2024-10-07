@@ -19,9 +19,9 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
   * 📖[Instruction-Following](#Instruction-Following)
   * 📖[High-Level-Vision](#High-Level-Vision)
     * 📖[OCR](#OCR)
+    * 📖[Aesthetics](#Aesthetics)
   * 📖[Low-Level-Vision](#Low-Level-Vision)
   * 📖[Reliable](#Reliable)
-    * 📖[Hallucination](#Hallucination)
   * 📖[Robust](#Robust)
 * 📖[Security](#Security)
 * 📖[Application](#Application)
@@ -151,7 +151,7 @@ arXiv, 2024.
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2023| Content | MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.|[[ArXiv]](https://arxiv.org/pdf/2310.09036) |-|[[Github]](https://github.com/declare-lab/MM-InstructEval)|-|
-|2024| Dialog | MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLM.|[[ArXiv]](https://arxiv.org/pdf/2406.11833) |-|[[Github]](https://github.com/Liuziyu77/MMDU/)|-|
+|2024| Dialog | [MMDU] MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLM.|[[ArXiv]](https://arxiv.org/pdf/2406.11833) |-|[[Github]](https://github.com/Liuziyu77/MMDU/)|-|
 |2023| Image | Journeydb: A benchmark for generative image understanding.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://journeydb.github.io/)|-|
 |2024| Image | MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models.|[[ArXiv]](https://arxiv.org/pdf/2408.02718) |-|[[Github]](https://mmiu-bench.github.io/)|-|
 |2024| Image | MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations.|[[ArXiv]](https://arxiv.org/pdf/2407.01523) |-|[[Github]](https://github.com/mayubo2333/MMLongBench-Doc)|-|
@@ -382,7 +382,7 @@ arXiv:2305.07895, 2023.
 [[ArXiv](https://arxiv.org/html/2305.07895v5)]
 [[Github](https://github.com/Yuliang-Liu/MultimodalOCR)]
 
-#### Aesthetics Evaluation
+#### Aesthetics
 
 **[Aesbench] Aesbench: An expert benchmark for multimodal large language models on image aesthetics perception.**<br>
 *Y Huang, Q Yuan, X Sheng, Z Yang, H Wu, P Chen, Y Yang, L Li, W Lin.*<br>
