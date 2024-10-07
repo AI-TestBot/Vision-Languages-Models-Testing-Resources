@@ -108,7 +108,7 @@ arXiv:2308.06595, 2023.
 ICCV, 2023.
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/MMFM/papers/Salin_Towards_an_Exhaustive_Evaluation_of_Vision-Language_Foundation_Models_ICCVW_2023_paper.pdf)]
 
-**Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi.**<br>
+**[MMMU] Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi.**<br>
 *X Yue, Y Ni, K Zhang, T Zheng, R Liu, G Zhang, S Stevens, D Jiang, W Ren, Y Sun, C Wei, et al.*<br>
 CVPR, 2024.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.pdf)]
@@ -138,6 +138,13 @@ arXiv:2406.09411, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.09411)]
 [[Github](https://github.com/muirbench/MuirBench)]
 [[HuggingFace](https://huggingface.co/datasets/MUIRBENCH/MUIRBENCH)]
+
+**[Mmt-bench] Mmt-bench: A comprehensive multimodal benchmark for evaluating large vision-language models towards multitask agi.**<br>
+*K Ying, F Meng, J Wang, Z Li, H Lin, Y Yang, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.16006)]
+[[Github](https://mmt-bench.github.io/)]
+[[HuggingFace](https://huggingface.co/datasets/Kaining/MMT-Bench)]
 
 ### Understanding
 
@@ -210,7 +217,19 @@ CVPR, 2017.
 CVPR, 2019.
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Marino_OK-VQA_A_Visual_Question_Answering_Benchmark_Requiring_External_Knowledge_CVPR_2019_paper.pdf)]
 
-**ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasonin.**<br>
+**[TextVQA] Towards VQA Models That Can Read.**<br>
+*A Singh, V Natarajan, M Shah, et al.*<br>
+CVPR, 2019.
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Singh_Towards_VQA_Models_That_Can_Read_CVPR_2019_paper.pdf)]
+[[Homepage](https://textvqa.org/)]
+
+**[DocVQA] Docvqa: A dataset for vqa on document images.**<br>
+*M Mathew, D Karatzas, CV Jawahar.*<br>
+WACV, 2021.
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Mathew_DocVQA_A_Dataset_for_VQA_on_Document_Images_WACV_2021_paper.pdf)]
+[[Homepage](https://textvqa.org/)]
+
+**[ChartQA] ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasonin.**<br>
 *A Masry, DX Long, JQ Tan, S Joty, E Hoque.*<br>
 arxiv:2203.10244, 2022.
 [[Paper](https://arxiv.org/pdf/2203.10244)]
@@ -350,11 +369,19 @@ arXiv, 2024.
 
 #### OCR
 
-**On the hidden mystery of ocr in large multimodal models.**<br>
+**[OCRBench] On the hidden mystery of ocr in large multimodal models.**<br>
 *Y Liu, Z Li, H Li, W Yu, M Huang, D Peng, M Liu, M Chen, C Li, L Jin, X Bai.*<br>
 arXiv:2305.07895, 2023.
 [[ArXiv](https://arxiv.org/html/2305.07895v5)]
 [[Github](https://github.com/Yuliang-Liu/MultimodalOCR)]
+
+#### Aesthetics Evaluation
+
+**[Aesbench] Aesbench: An expert benchmark for multimodal large language models on image aesthetics perception.**<br>
+*Y Huang, Q Yuan, X Sheng, Z Yang, H Wu, P Chen, Y Yang, L Li, W Lin.*<br>
+arXiv:2401.08276, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.08276)]
+[[Github](https://arxiv.org/pdf/2401.08276)]
 
 ### Low-Level-Vision
 
@@ -374,9 +401,9 @@ arXiv:2402.07116, 2024.
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2023| Hallucination | An llm-free multi-dimensional benchmark for mllms hallucination evaluation.|[[ArXiv]](https://arxiv.org/pdf/2311.07397) |-|[[Github]](https://github.com/junyangwang0410/AMBER)|-|
-|2024| Hallucination | Evaluating object hallucination in large vision-language models.|[[ArXiv]](https://arxiv.org/pdf/2305.10355) |-|-|-|
+|2024| Hallucination | [POPE] Evaluating object hallucination in large vision-language models.|[[ArXiv]](https://arxiv.org/pdf/2305.10355) |-|-|-|
 |2024| Hallucination | LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models.|[[ArXiv]](https://arxiv.org/pdf/2407.12772) |-|-|-|
-|2024| Hallucination | Hallusionbench: You see what you think? or you think what you see? an image-context reasoning benchmark challenging for gpt-4v (ision), llava-1.5, and other multi-modality models.|[[CVPR]](https://arxiv.org/pdf/2310.14566) |-|[[Github]](https://github.com/tianyi-lab/HallusionBench)|-|
+|2024| Hallucination | [Hallusionbench] Hallusionbench: You see what you think? or you think what you see? an image-context reasoning benchmark challenging for gpt-4v (ision), llava-1.5, and other multi-modality models.|[[CVPR]](https://arxiv.org/pdf/2310.14566) |-|[[Github]](https://github.com/tianyi-lab/HallusionBench)|-|
 
 ### Robust
 
