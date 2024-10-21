@@ -30,6 +30,7 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
 * 📖[Industry](#Industry)
     * 📖[Medical](#Medical)
 * 📖[Human-Machine-Interaction](#Human-Machine-Interaction)
+* 📖[Omini-Modal](#Omini-Modal)
 * 📖[Testing-Methods](#Testing-Methods)
 * 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
@@ -533,6 +534,13 @@ arXiv:2406.09295, 2024.
 arXiv:2401.08743, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.08743)]
 [[Github](https://chuanyangjin.com/mmtom-qa)]
+
+## Omini-Modal
+
+*OmniBench: Towards The Future of Universal Omni-Language Models.*<br>
+*Y Li, G Zhang, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2409.15272)]
 
 ## Testing-Methods
 
