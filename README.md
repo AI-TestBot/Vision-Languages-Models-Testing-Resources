@@ -58,21 +58,6 @@ arxiv:2408.15769, 2024.
 
 ### Comprehensive
 
-**Holistic evaluation of text-to-image models.**<br>
-*T Lee, M Yasunaga, C Meng, Y Mai, JS Park, A Gupta, Y Zhang, D Narayanan, H Teufel, et al.*<br>
-Advances in Neural Information Processing Systems, 2024.
-[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/dd83eada2c3c74db3c7fe1c087513756-Paper-Datasets_and_Benchmarks.pdf)]
-[[Github](https://github.com/stanford-crfm/helm)]
-
-**MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models.**<br>
-*Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others.*<br>
-arXiv:2306.13394, 2023.
-
-**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**<br>
-*YF Zhang, H Zhang, H Tian, C Fu, S Zhang, J Wu, F Li, K Wang, Q Wen, Z Zhang, L Wang, et al.*<br>
-arXiv:2408.13257, 2024.
-[[ArXiv](https://arxiv.org/pdf/2408.13257)]
-
 **Lvlm-ehub: A comprehensive evaluation benchmark for large vision-language models.**<br>
 *P Xu, W Shao, K Zhang, P Gao, S Liu, M Lei, F Meng, S Huang, Y Qiao, P Luo.*<br>
 arXiv:2306.09265, 2023.
@@ -83,6 +68,10 @@ arXiv:2306.09265, 2023.
 arXiv:2307.06281, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
 [[Github](https://mmbench.opencompass.org.cn/home)]
+
+**MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models.**<br>
+*Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others.*<br>
+arXiv:2306.13394, 2023.
 
 **Mm-vet: Evaluating large multimodal models for integrated capabilities.**<br>
 *W Yu, Z Yang, L Li, J Wang, K Lin, Z Liu, X Wang, L Wang.*<br>
@@ -118,6 +107,37 @@ arXiv:2308.06595, 2023.
 ICCV, 2023.
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/MMFM/papers/Salin_Towards_an_Exhaustive_Evaluation_of_Vision-Language_Foundation_Models_ICCVW_2023_paper.pdf)]
 
+**[HR-Bench] Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models.**<br>
+*W Wang, L Ding, M Zeng, X Zhou, L Shen, Y Luo, D Tao.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.15556)]
+[[Github](https://github.com/DreamMr/HR-Bench)]
+
+**[Blink] Blink: Multimodal large language models can see but not perceive.**<br>
+*X Fu, Y Hu, B Li, Y Feng, H Wang, X Lin, D Roth, NA Smith, WC Ma, R Krishna.*<br>
+arxiv:2404.12390, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.12390)]
+[[Github](https://zeyofu.github.io/blink/)]
+
+**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**<br>
+*YF Zhang, H Zhang, H Tian, C Fu, S Zhang, J Wu, F Li, K Wang, Q Wen, Z Zhang, L Wang, et al.*<br>
+arXiv:2408.13257, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.13257)]
+
+**[Mmt-bench] Mmt-bench: A comprehensive multimodal benchmark for evaluating large vision-language models towards multitask agi.**<br>
+*K Ying, F Meng, J Wang, Z Li, H Lin, Y Yang, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.16006)]
+[[Github](https://mmt-bench.github.io/)]
+[[HuggingFace](https://huggingface.co/datasets/Kaining/MMT-Bench)]
+
+**[MuirBench] MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding.**<br>
+*F Wang, X Fu, JY Huang, Z Li, Q Liu, X Liu, MD Ma, N Xu, W Zhou, K Zhang, TL Yan, WJ Mo, et al.*<br>
+arXiv:2406.09411, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.09411)]
+[[Github](https://github.com/muirbench/MuirBench)]
+[[HuggingFace](https://huggingface.co/datasets/MUIRBENCH/MUIRBENCH)]
+
 **[MMMU] Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi.**<br>
 *X Yue, Y Ni, K Zhang, T Zheng, R Liu, G Zhang, S Stevens, D Jiang, W Ren, Y Sun, C Wei, et al.*<br>
 CVPR, 2024.
@@ -135,32 +155,6 @@ CVPR, 2024.
 ICLR, 2024.
 [[ArXiv](https://arxiv.org/pdf/2310.00647)]
 [[Github](https://github.com/mshukor/EvALign-ICL)]
-
-**[HR-Bench] Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models.**<br>
-*W Wang, L Ding, M Zeng, X Zhou, L Shen, Y Luo, D Tao.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2408.15556)]
-[[Github](https://github.com/DreamMr/HR-Bench)]
-
-**[MuirBench] MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding.**<br>
-*F Wang, X Fu, JY Huang, Z Li, Q Liu, X Liu, MD Ma, N Xu, W Zhou, K Zhang, TL Yan, WJ Mo, et al.*<br>
-arXiv:2406.09411, 2024.
-[[ArXiv](https://arxiv.org/pdf/2406.09411)]
-[[Github](https://github.com/muirbench/MuirBench)]
-[[HuggingFace](https://huggingface.co/datasets/MUIRBENCH/MUIRBENCH)]
-
-**[Mmt-bench] Mmt-bench: A comprehensive multimodal benchmark for evaluating large vision-language models towards multitask agi.**<br>
-*K Ying, F Meng, J Wang, Z Li, H Lin, Y Yang, et al.*<br>
-arXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2404.16006)]
-[[Github](https://mmt-bench.github.io/)]
-[[HuggingFace](https://huggingface.co/datasets/Kaining/MMT-Bench)]
-
-**[Blink] Blink: Multimodal large language models can see but not perceive.**<br>
-*X Fu, Y Hu, B Li, Y Feng, H Wang, X Lin, D Roth, NA Smith, WC Ma, R Krishna.*<br>
-arxiv:2404.12390, 2024.
-[[ArXiv](https://arxiv.org/pdf/2404.12390)]
-[[Github](https://zeyofu.github.io/blink/)]
 
 ### Understanding
 
@@ -192,6 +186,7 @@ arxiv:2404.12390, 2024.
 |2024| Text-to-Image | Evaluating text-to-visual generation with image-to-text generation.|[[ArXiv]](https://arxiv.org/pdf/2404.01291) |-|-|-|
 |2024| Text-to-Image | UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark.|[[ArXiv]](https://arxiv.org/pdf/2404.09619) |-|-|-|
 |2024| Text-to-Image | Aigiqa-20k: A large database for ai-generated image quality assessment.|[[CVPRW]](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Li_AIGIQA-20K_A_Large_Database_for_AI-Generated_Image_Quality_Assessment_CVPRW_2024_paper.pdf) |-|-|[[DataSets]](https://www.modelscope.cn/datasets/lcysyzxdxc/AIGCQA-30K-Image)|
+|2024| Text-to-Image | Holistic evaluation of text-to-image models.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/dd83eada2c3c74db3c7fe1c087513756-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://github.com/stanford-crfm/helm/)|-|
 |2024| Text-to-Image | Imagereward: Learning and evaluating human preferences for text-to-image generation.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/33646ef0ed554145eab65f6250fab0c9-Paper-Conference.pdf) |-|-|-|
 |2024| Text-to-Image | Llmscore: Unveiling the power of large language models in text-to-image synthesis evaluation.|[[NeurIPS]](https://so2.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LLMScore%3A+Unveiling+the+Power+of+Large+Language+Models+in+Text-to-Image+Synthesis+Evaluation&btnG=) |-|[[Github]](https://github.com/YujieLu10/LLMScore)|-|
 |2024| Text-to-Image | EVALALIGN: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models.|[[ArXiv]](https://arxiv.org/pdf/2406.16562) |-|[[Github]](https://github.com/SAIS-FUXI/EvalAlign)|-|
