@@ -542,6 +542,16 @@ arXiv:2401.08743, 2024.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2409.15272)]
 
+*Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models.*<br>
+*B Gao, F Song, Z Yang, Z Cai, Y Miao, Q Dong, L Li, C Ma, L Chen, R Xu, Z Tang, B Wang, et al.*<br>
+arxiv:2410.07985, 2024.
+[[ArXiv](https://arxiv.org/pdf/2410.07985)]
+[[Github](https://github.com/KbsdJames/Omni-MATH)]
+
+*OmniR: Evaluating Omni-modality Language Models on Reasoning across Modalities.*<br>
+*Lichang Chen, et al.*<br>
+Google DeepMind, 2024.
+
 ## Testing-Methods
 
 **Task Me Anything.**<br>
