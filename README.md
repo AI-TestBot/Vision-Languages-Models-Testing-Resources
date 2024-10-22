@@ -309,6 +309,12 @@ arXiv:2309.04461, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.04461)]
 [[Github](https://github.com/Yangyi-Chen/CoTConsistency)]
 
+**Compbench: A comparative reasoning benchmark for multimodal llms.**<br>
+*J Kil, Z Mai, J Lee, Z Wang, K Cheng, L Wang, Y Liu, A Chowdhury, WL Chao.*<br>
+arXiv:2407.16837, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.16837)]
+[[Github](https://compbench.github.io/)]
+
 **Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs.**<br>
 *MU Khattak, MF Naeem, J Hassan, M Naseer, et al.*<br>
 arXiv, 2024.
@@ -550,6 +556,31 @@ Proceedings of the 30th ACM international conference on multimedia, 2022.
 [[MM](https://dl.acm.org/doi/pdf/10.1145/3503161.3548291)]
 [[Github](https://mn.cs.tsinghua.edu.cn/avqa/)]
 
+*Answering Diverse Questions via Text Attached with Key Audio-Visual Clues.*<br>
+*Q Ye, Z Yu, X Liu.*<br>
+arXiv:2403.06679, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.06679)]
+
+*Emotion and Intent Joint Understanding in Multimodal Conversation: A Benchmarking Dataset.*<br>
+*R Liu, H Zuo, Z Lian, X Xing, BW Schuller, H Li.*<br>
+arXiv:2407.02751, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.02751)]
+
+*Hear Me, See Me, Understand Me: Audio-Visual Autism Behavior Recognition.*<br>
+*S Deng, EE Kosloski, S Patel, ZA Barnett, Y Nan, A Kaplan, S Aarukapalli, WT Doan, et al.*<br>
+arXiv:2406.02554, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.02554)]
+
+*Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering.*<br>
+*J Ma, M Hu, P Wang, W Sun, L Song, H Pei, J Liu, Y Du.*<br>
+arXiv:2404.12020, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.12020)]
+
+*Merbench: A unified evaluation benchmark for multimodal emotion recognition.*<br>
+*Z Lian, L Sun, Y Ren, H Gu, H Sun, L Chen, B Liu, J Tao.*<br>
+arXiv:2401.03429, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.03429)]
+
 *OmniBench: Towards The Future of Universal Omni-Language Models.*<br>
 *Y Li, G Zhang, et al.*<br>
 ArXiv, 2024.
@@ -558,6 +589,11 @@ ArXiv, 2024.
 *OmniXR: Evaluating Omni-modality Language Models on Reasoning across Modalities.*<br>
 *L Chen, H Hu, M Zhang, Y Chen, Z Wang, Y Li, P Shyam, T Zhou, H Huang, MH Yang, et al.*<br>
 arXiv:2410.12219, 2024.
+[[ArXiv](https://arxiv.org/pdf/2410.12219)]
+
+*VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset.*<br>
+*J Liu, S Chen, X He, L Guo, X Zhu, W Wang, J Tangl.*<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
 [[ArXiv](https://arxiv.org/pdf/2410.12219)]
 
 ## Testing-Methods
