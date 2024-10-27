@@ -79,7 +79,7 @@ arXiv:2308.02490, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.02490)]
 [[Github](https://github.com/yuweihao/MM-Vet)]
 
-**mplug-owl: Modularization empowers large language models with multimodality.**<br>
+**[OwlEval] mplug-owl: Modularization empowers large language models with multimodality.**<br>
 *Q Ye, H Xu, G Xu, J Ye, M Yan, Y Zhou, J Wang, A Hu, P Shi, Y Shi, C Li, Y Xu, H Chen, et al.*<br>
 arXiv:2304.14178, 2023.
 [[ArXiv](https://arxiv.org/pdf/2304.14178)]
@@ -90,13 +90,13 @@ arXiv:2307.16125, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.16125)]
 [[Github](https://github.com/AILab-CVC/SEED-Bench)]
 
-**Touchstone: Evaluating vision-language models by language models.**<br>
+**[Touchstone] Touchstone: Evaluating vision-language models by language models.**<br>
 *S Bai, S Yang, J Bai, P Wang, X Zhang, J Lin, X Wang, C Zhou, J Zhou.*<br>
 arXiv:2308.16890, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.16890)]
 [[Github](https://github.com/OFA-Sys/TouchStone)]
 
-**Visit-bench: A benchmark for vision-language instruction following inspired by real-world use.**<br>
+**[Visit-bench] Visit-bench: A benchmark for vision-language instruction following inspired by real-world use.**<br>
 *Y Bitton, H Bansal, J Hessel, R Shao, W Zhu, A Awadalla, J Gardner, R Taori, L Schimdt.*<br>
 arXiv:2308.06595, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.06595)]
@@ -119,7 +119,7 @@ arxiv:2404.12390, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.12390)]
 [[Github](https://zeyofu.github.io/blink/)]
 
-**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**<br>
+**[MME-RealWorld] MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**<br>
 *YF Zhang, H Zhang, H Tian, C Fu, S Zhang, J Wu, F Li, K Wang, Q Wen, Z Zhang, L Wang, et al.*<br>
 arXiv:2408.13257, 2024.
 [[ArXiv](https://arxiv.org/pdf/2408.13257)]
@@ -160,14 +160,14 @@ ICLR, 2024.
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2023| Content | MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.|[[ArXiv]](https://arxiv.org/pdf/2310.09036) |-|[[Github]](https://github.com/declare-lab/MM-InstructEval)|-|
+|2023| Content | [MM-BigBench] MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.|[[ArXiv]](https://arxiv.org/pdf/2310.09036) |-|[[Github]](https://github.com/declare-lab/MM-InstructEval)|-|
 |2024| Dialog | [MMDU] MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLM.|[[ArXiv]](https://arxiv.org/pdf/2406.11833) |-|[[Github]](https://github.com/Liuziyu77/MMDU/)|-|
-|2023| Image | Journeydb: A benchmark for generative image understanding.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://journeydb.github.io/)|-|
-|2024| Image | MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models.|[[ArXiv]](https://arxiv.org/pdf/2408.02718) |-|[[Github]](https://mmiu-bench.github.io/)|-|
-|2024| Image | MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations.|[[ArXiv]](https://arxiv.org/pdf/2407.01523) |-|[[Github]](https://github.com/mayubo2333/MMLongBench-Doc)|-|
+|2023| Image | [Journeydb] Journeydb: A benchmark for generative image understanding.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://journeydb.github.io/)|-|
+|2024| Image | [MMIU] MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models.|[[ArXiv]](https://arxiv.org/pdf/2408.02718) |-|[[Github]](https://mmiu-bench.github.io/)|-|
+|2024| Image | [MMLongBench-Doc] MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations.|[[ArXiv]](https://arxiv.org/pdf/2407.01523) |-|[[Github]](https://github.com/mayubo2333/MMLongBench-Doc)|-|
 |2024| Relation | [CRPE] The all-seeing project v2: Towards general relation comprehension of the open world.|[[ArXiv]](https://arxiv.org/pdf/2402.19474) |-|[[Github]](https://github.com/OpenGVLab/all-seeing)|[[HuggingFace]](https://huggingface.co/datasets/OpenGVLab/CRPE)|
-|2024| Video | MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf) |-|[[Github]](https://github.com/OpenGVLab/Ask-Anything)|-|
-|2024| Video | MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding.|[[ArXiv]](https://arxiv.org/pdf/2406.04264) |-|[[Github]](https://github.com/JUNJIE99/MLVU)|-|
+|2024| Video | [MVBench] MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf) |-|[[Github]](https://github.com/OpenGVLab/Ask-Anything)|-|
+|2024| Video | [MLVU] MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding.|[[ArXiv]](https://arxiv.org/pdf/2406.04264) |-|[[Github]](https://github.com/JUNJIE99/MLVU)|-|
 
 ### Generation
 
