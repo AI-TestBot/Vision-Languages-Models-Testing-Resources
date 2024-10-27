@@ -37,12 +37,6 @@ Vision Languages Models (VLMs) Testing Resources: A curated list of Awesome VLMs
 
 ## 📖Review  
 
-**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities.**<br>
-*C Lu, C Qian, G Zheng, H Fan, H Gao, J Zhang, J Shao, J Deng, J Fu, K Huang, K Li, L Li, et al.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2401.15071.pdf)]
-[[Github](https://openlamm.github.io/Leaderboards)]
-
 **A Survey on Benchmarks of Multimodal Large Language Models.**<br>
 *J Li, W Lu.*<br>
 ArXiv, 2024.
@@ -54,26 +48,32 @@ ArXiv, 2024.
 arxiv:2408.15769, 2024.
 [[ArXiv](https://arxiv.org/pdf/2408.15769)]
 
+**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities.**<br>
+*C Lu, C Qian, G Zheng, H Fan, H Gao, J Zhang, J Shao, J Deng, J Fu, K Huang, K Li, L Li, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.15071.pdf)]
+[[Github](https://openlamm.github.io/Leaderboards)]
+
 ## 📖General 
 
 ### Comprehensive
 
-**Lvlm-ehub: A comprehensive evaluation benchmark for large vision-language models.**<br>
+**[Lvlm-ehub] Lvlm-ehub: A comprehensive evaluation benchmark for large vision-language models.**<br>
 *P Xu, W Shao, K Zhang, P Gao, S Liu, M Lei, F Meng, S Huang, Y Qiao, P Luo.*<br>
 arXiv:2306.09265, 2023.
 [[ArXiv](https://arxiv.org/pdf/2306.09265)]
 
-**Mmbench: Is your multi-modal model an all-around player?**<br>
+**[Mmbench] Mmbench: Is your multi-modal model an all-around player?**<br>
 *Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.*<br>
 arXiv:2307.06281, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
 [[Github](https://mmbench.opencompass.org.cn/home)]
 
-**MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models.**<br>
+**[MME] MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models.**<br>
 *Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others.*<br>
 arXiv:2306.13394, 2023.
 
-**Mm-vet: Evaluating large multimodal models for integrated capabilities.**<br>
+**[Mm-vet] Mm-vet: Evaluating large multimodal models for integrated capabilities.**<br>
 *W Yu, Z Yang, L Li, J Wang, K Lin, Z Liu, X Wang, L Wang.*<br>
 arXiv:2308.02490, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.02490)]
