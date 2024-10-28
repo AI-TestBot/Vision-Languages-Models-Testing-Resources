@@ -96,6 +96,12 @@ arXiv:2308.16890, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.16890)]
 [[Github](https://github.com/OFA-Sys/TouchStone)]
 
+**Video-bench: A comprehensive benchmark and toolkit for evaluating video-based large language models.**<br>
+*M Ning, B Zhu, Y **e, B Lin, J Cui, L Yuan, D Chen, L Yuan.*<br>
+arxiv:2311.16103, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.16103)]
+[[Github](https://github.com/PKU-YuanGroup/Video-Bench)]
+
 **[Visit-bench] Visit-bench: A benchmark for vision-language instruction following inspired by real-world use.**<br>
 *Y Bitton, H Bansal, J Hessel, R Shao, W Zhu, A Awadalla, J Gardner, R Taori, L Schimdt.*<br>
 arXiv:2308.06595, 2023.
@@ -162,11 +168,13 @@ ICLR, 2024.
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2023| Content | [MM-BigBench] MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.|[[ArXiv]](https://arxiv.org/pdf/2310.09036) |-|[[Github]](https://github.com/declare-lab/MM-InstructEval)|-|
 |2024| Dialog | [MMDU] MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLM.|[[ArXiv]](https://arxiv.org/pdf/2406.11833) |-|[[Github]](https://github.com/Liuziyu77/MMDU/)|-|
+|2024| Relation | [CRPE] The all-seeing project v2: Towards general relation comprehension of the open world.|[[ArXiv]](https://arxiv.org/pdf/2402.19474) |-|[[Github]](https://github.com/OpenGVLab/all-seeing)|[[HuggingFace]](https://huggingface.co/datasets/OpenGVLab/CRPE)|
 |2023| Image | [Journeydb] Journeydb: A benchmark for generative image understanding.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bc59aff4685e39e1a8175d5303248a1-Paper-Datasets_and_Benchmarks.pdf) |-|[[Github]](https://journeydb.github.io/)|-|
 |2024| Image | [MMIU] MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models.|[[ArXiv]](https://arxiv.org/pdf/2408.02718) |-|[[Github]](https://mmiu-bench.github.io/)|-|
 |2024| Image | [MMLongBench-Doc] MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations.|[[ArXiv]](https://arxiv.org/pdf/2407.01523) |-|[[Github]](https://github.com/mayubo2333/MMLongBench-Doc)|-|
-|2024| Relation | [CRPE] The all-seeing project v2: Towards general relation comprehension of the open world.|[[ArXiv]](https://arxiv.org/pdf/2402.19474) |-|[[Github]](https://github.com/OpenGVLab/all-seeing)|[[HuggingFace]](https://huggingface.co/datasets/OpenGVLab/CRPE)|
+|2024| Video | [ET Bench] ET Bench: Towards Open-Ended Event-Level Video-Language Understanding.|[[ArXiv]](https://arxiv.org/pdf/2409.18111?) |-|[[Github]](https://polyu-chenlab.github.io/etbench/)|-|
 |2024| Video | [MVBench] MVBench: A Comprehensive Multi-modal Video Understanding Benchmark.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf) |-|[[Github]](https://github.com/OpenGVLab/Ask-Anything)|-|
+|2024| Video | [VideoVista] VideoVista: A Versatile Benchmark for Video Understanding and Reasoning.|[[ArXiv]](https://arxiv.org/pdf/2406.11303) |-|[[Github]](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs/tree/master/VideoVista)|-|
 |2024| Video | [MLVU] MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding.|[[ArXiv]](https://arxiv.org/pdf/2406.04264) |-|[[Github]](https://github.com/JUNJIE99/MLVU)|-|
 
 ### Generation
@@ -225,7 +233,7 @@ CVPR, 2017.
 [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)]
 [[Homepage](https://visualqa.org/)]
 
-**Ok-vqa: A visual question answering benchmark requiring external knowledge.**<br>
+**[Ok-vqa] Ok-vqa: A visual question answering benchmark requiring external knowledge.**<br>
 *K Marino, M Rastegari, A Farhadi, R Mottaghi.*<br>
 CVPR, 2019.
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Marino_OK-VQA_A_Visual_Question_Answering_Benchmark_Requiring_External_Knowledge_CVPR_2019_paper.pdf)]
@@ -361,6 +369,12 @@ arxiv:2409.02813, 2024.
 arXiv:2402.14804, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.14804)]
 [[Github](https://mathvision-cuhk.github.io/)]
+
+**[MMMU] Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi.**<br>
+*X Yue, Y Ni, K Zhang, T Zheng, R Liu, G Zhang, S Stevens, D Jiang, W Ren, Y Sun, C Wei, et al.*<br>
+CVPR, 2024.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.pdf)]
+[[Github](https://mmmu-benchmark.github.io/)]
 
 **[Mathverse] Mathverse: Does your multi-modal llm truly see the diagrams in visual math problems?.**<br>
 *R Zhang, D Jiang, Y Zhang, H Lin, Z Guo, P Qiu, A Zhou, P Lu, KW Chang, P Gao, H Li.*<br>
