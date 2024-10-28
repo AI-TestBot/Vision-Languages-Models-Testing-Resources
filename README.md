@@ -258,7 +258,7 @@ arxiv:2203.10244, 2022.
 **[ScienceQA] Learn to explain: Multimodal reasoning via thought chains for science question answering.**<br>
 *P Lu, S Mishra, T Xia, L Qiu, KW Chang, SC Zhu, O Tafjord, P Clark, A Kalyan.*<br>
 Advances in Neural Information Processing Systems, 2022.
-[[Neurips](https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf)]
+[[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf)]
 [[Github](https://scienceqa.github.io/)]
 
 **KNVQA: A Benchmark for evaluation knowledge-based VQA.**<br>
