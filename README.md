@@ -508,6 +508,24 @@ arXiv, 2024.
 
 ### Agent
 
+**Crab: Cross-environment agent benchmark for multimodal language model agents.**<br>
+*T Xu, L Chen, DJ Wu, Y Chen, Z Zhang, X Yao, Z Xie, Y Chen, S Liu, B Qian, P Torr, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.01511?)]
+[[Github](https://github.com/camel-ai/crab/tree/main)]
+
+**MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents.**<br>
+*L Wang, Y Deng, Y Zha, G Mao, Q Wang, T Min, W Chen, S Chen.*<br>
+arXiv:2406.08184, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.08184)]
+[[Github](https://mobileagentbench.github.io/)]
+
+**Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments.**<br>
+*T Xie, D Zhang, J Chen, X Li, S Zhao, R Cao, TJ Hua, Z Cheng, D Shin, F Lei, Y Liu, Y Xu, et al.*<br>
+arXiv:2404.07972, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.07972)]
+[[Github](https://os-world.github.io/)]
+
 **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents.**<br>
 *X Liu, T Zhang, et al.*<br>
 arXiv, 2024.
