@@ -102,12 +102,6 @@ arxiv:2311.16103, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.16103)]
 [[Github](https://github.com/PKU-YuanGroup/Video-Bench)]
 
-**[Visit-bench] Visit-bench: A benchmark for vision-language instruction following inspired by real-world use.**<br>
-*Y Bitton, H Bansal, J Hessel, R Shao, W Zhu, A Awadalla, J Gardner, R Taori, L Schimdt.*<br>
-arXiv:2308.06595, 2023.
-[[ArXiv](https://arxiv.org/pdf/2308.06595)]
-[[Github](https://visit-bench.github.io/)]
-
 **Towards an Exhaustive Evaluation of Vision-Language Foundation Models.**<br>
 *E Salin, S Ayache, B Favre.*<br>
 ICCV, 2023.
@@ -398,6 +392,12 @@ arXiv:2406.02539, 2024.
 
 ### Instruction-Following
 
+**[Visit-bench] Visit-bench: A benchmark for vision-language instruction following inspired by real-world use.**<br>
+*Y Bitton, H Bansal, J Hessel, R Shao, W Zhu, A Awadalla, J Gardner, R Taori, L Schimdt.*<br>
+arXiv:2308.06595, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.06595)]
+[[Github](https://visit-bench.github.io/)]
+
 **Visual instruction tuning.**<br>
 *H Liu, C Li, Q Wu, YJ Lee.*<br>
 NeurIPS, 2024.
@@ -478,24 +478,6 @@ Advances in Neural Information Processing Systems, 2024.
 [[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/a2a544e43acb8b954dc5846ff0d77ad5-Paper-Datasets_and_Benchmarks.pdf)]
 [[Github](https://adarobustness.github.io/)]
 
-## Security
-
-**How many unicorns are in this image? a safety evaluation benchmark for vision llms.**<br>
-*H Tu, C Cui, Z Wang, Y Zhou, B Zhao, J Han, W Zhou, H Yao, C Xie.*<br>
-arXiv:2311.16101, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.16101)]
-[[Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark)]
-
-**T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models.**<br>
-*Y Miao, Y Zhu, Y Dong, L Yu, J Zhu, XS Gao.*<br>
-arxiv:2407.05965, 2024.
-[[ArXiv](https://arxiv.org/pdf/2407.05965)]
-
-**MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models.**<br>
-*T Gu, Z Zhou, K Huang, D Liang, Y Wang, H Zhao, Y Yao, X Qiao, K Wang, Y Yang, Y Teng, et al.*<br>
-arxiv:2406.07594, 2024.
-[[ArXiv](https://arxiv.org/pdf/2406.07594)]
-
 ## Application
 
 ### Search
@@ -531,6 +513,24 @@ arXiv:2404.07972, 2024.
 arXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2408.06327)]
 [[Github](https://github.com/THUDM/VisualAgentBench)]
+
+## Security
+
+**How many unicorns are in this image? a safety evaluation benchmark for vision llms.**<br>
+*H Tu, C Cui, Z Wang, Y Zhou, B Zhao, J Han, W Zhou, H Yao, C Xie.*<br>
+arXiv:2311.16101, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.16101)]
+[[Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark)]
+
+**T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models.**<br>
+*Y Miao, Y Zhu, Y Dong, L Yu, J Zhu, XS Gao.*<br>
+arxiv:2407.05965, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.05965)]
+
+**MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models.**<br>
+*T Gu, Z Zhou, K Huang, D Liang, Y Wang, H Zhao, Y Yao, X Qiao, K Wang, Y Yang, Y Teng, et al.*<br>
+arxiv:2406.07594, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.07594)]
 
 ## Industry
 
